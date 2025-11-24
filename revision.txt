@@ -1,7 +1,7 @@
 # make sure to increment revision BEFORE any changes to content
 
-BOARD_PREFIX=greenenergy_ecu
-BOARD_SUFFIX=
+BOARD_PREFIX=greenenergy
+BOARD_SUFFIX=ecu
 BOARD_REVISION=a
 
 # does not affect fab files, only needed to have nice rendered preview
