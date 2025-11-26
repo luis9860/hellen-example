@@ -1,0 +1,27 @@
+Info: Procesando el símbolo 'U1:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Añadir U1 (huella 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm').
+Indicador de referencia cambiado de REF** a U1.
+Valor U1 cambiado de SOIC-8_3.9x4.9mm_P1.27mm a ICM7555xB.
+Asociación de símbolos U1 actualizada de  a /d88ac4e8-3682-43a5-bbe2-9fb30766b176.
+Actualizados U1 campos.
+Nombre de hoja U1 actualizado a 'Raíz'.
+Archivo de hoja U1 actualizado a 'greenenergyecu.kicad_sch'.
+Filtros de huella U1 actualizados a 'SOIC*3.9x4.9mm*P1.27mm*'.
+Añadir red unconnected-(U1-DIS-Pad7).
+U1 pin 7 conectado a unconnected-(U1-DIS-Pad7).
+Añadir red unconnected-(U1-R-Pad4).
+U1 pin 4 conectado a unconnected-(U1-R-Pad4).
+Añadir red unconnected-(U1-VCC-Pad8).
+U1 pin 8 conectado a unconnected-(U1-VCC-Pad8).
+Añadir red unconnected-(U1-CV-Pad5).
+U1 pin 5 conectado a unconnected-(U1-CV-Pad5).
+Añadir red Net-(U1-GND).
+U1 pin 1 conectado a Net-(U1-GND).
+Añadir red unconnected-(U1-Q-Pad3).
+U1 pin 3 conectado a unconnected-(U1-Q-Pad3).
+U1 pin 2 conectado a Net-(U1-GND).
+Añadir red unconnected-(U1-THR-Pad6).
+U1 pin 6 conectado a unconnected-(U1-THR-Pad6).
+
+
+Info: Número de avisos: 0, errores: 0.
