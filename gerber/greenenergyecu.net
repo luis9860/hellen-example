@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/runner/work/hellen-example/hellen-example/greenenergyecu.kicad_sch</source>
+    <date>2025-11-27T03:07:21+0000</date>
+    <tool>Eeschema 8.0.9-8.0.9-0~ubuntu24.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>greenenergyecu.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="M1">
+      <value>Module-knock-0.2</value>
+      <footprint>hellen-one-knock-0.2:knock</footprint>
+      <description>Hellen-One Knock Pre-amplifier Module</description>
+      <fields>
+        <field name="Footprint">hellen-one-knock-0.2:knock</field>
+        <field name="Datasheet"/>
+        <field name="Description">Hellen-One Knock Pre-amplifier Module</field>
+      </fields>
+      <libsource lib="knock" part="Module-knock-0.2" description="Hellen-One Knock Pre-amplifier Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="greenenergyecu.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a59bf4a-9781-4df5-9329-9590db0fd879</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="knock" part="Module-knock-0.2">
+      <description>Hellen-One Knock Pre-amplifier Module</description>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-knock-0.2</field>
+        <field name="Footprint">hellen-one-knock-0.2:knock</field>
+        <field name="Datasheet"/>
+        <field name="Description">Hellen-One Knock Pre-amplifier Module</field>
+      </fields>
+      <pins>
+        <pin num="E1" name="V5A" type="passive"/>
+        <pin num="E2" name="GND" type="passive"/>
+        <pin num="E3" name="OUT_KNOCK" type="passive"/>
+        <pin num="W1" name="IN_KNOCK" type="passive"/>
+        <pin num="W2" name="VREF" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries/>
+  <nets>
+    <net code="1" name="unconnected-(M1-GND-PadE2)">
+      <node ref="M1" pin="E2" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="2" name="unconnected-(M1-IN_KNOCK-PadW1)">
+      <node ref="M1" pin="W1" pinfunction="IN_KNOCK" pintype="passive"/>
+    </net>
+    <net code="3" name="unconnected-(M1-OUT_KNOCK-PadE3)">
+      <node ref="M1" pin="E3" pinfunction="OUT_KNOCK" pintype="passive"/>
+    </net>
+    <net code="4" name="unconnected-(M1-V5A-PadE1)">
+      <node ref="M1" pin="E1" pinfunction="V5A" pintype="passive"/>
+    </net>
+    <net code="5" name="unconnected-(M1-VREF-PadW2)">
+      <node ref="M1" pin="W2" pinfunction="VREF" pintype="passive"/>
+    </net>
+  </nets>
+</export>
