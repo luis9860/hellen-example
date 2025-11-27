@@ -159,16 +159,16 @@
 	)
 	(symbol
 		(lib_id "knock:Module-knock-0.2")
-		(at 66.04 86.36 0)
+		(at 80.01 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "5a59bf4a-9781-4df5-9329-9590db0fd879")
+		(uuid "e8bf31c9-264d-4155-b63c-8167ab4a1b1f")
 		(property "Reference" "M1"
-			(at 109.22 90.2014 0)
+			(at 123.19 68.6114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -176,7 +176,7 @@
 			)
 		)
 		(property "Value" "Module-knock-0.2"
-			(at 109.22 92.7414 0)
+			(at 123.19 71.1514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -184,7 +184,7 @@
 			)
 		)
 		(property "Footprint" "hellen-one-knock-0.2:knock"
-			(at 66.04 86.36 0)
+			(at 80.01 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -193,7 +193,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 86.36 0)
+			(at 80.01 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -202,7 +202,7 @@
 			)
 		)
 		(property "Description" "Hellen-One Knock Pre-amplifier Module"
-			(at 66.04 86.36 0)
+			(at 80.01 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -210,20 +210,20 @@
 				(hide yes)
 			)
 		)
-		(pin "W1"
-			(uuid "7f438af9-0e3d-4a89-ad18-7b03e01301e1")
-		)
 		(pin "W2"
-			(uuid "f8118db1-1505-456a-bc34-c3627cf654f8")
-		)
-		(pin "E1"
-			(uuid "0c39b95d-8c13-41c7-a577-71cfd7958ec4")
-		)
-		(pin "E2"
-			(uuid "8506e9ad-c1ed-4419-b453-49183d1016cd")
+			(uuid "c935523b-b40c-4cdc-96f1-77934208dc2d")
 		)
 		(pin "E3"
-			(uuid "be2a9f65-ed98-489b-bea6-c22ad5742d04")
+			(uuid "46cd6bc0-1437-475c-872a-6a46020a407e")
+		)
+		(pin "W1"
+			(uuid "487c03b9-86d3-4849-8f7f-db67a7c34e03")
+		)
+		(pin "E1"
+			(uuid "3556fb37-2566-4d18-9b10-c8a35374d27b")
+		)
+		(pin "E2"
+			(uuid "6389a4c7-ef31-46c8-8e36-635c49f6846f")
 		)
 		(instances
 			(project ""
