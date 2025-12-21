@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/hellen-example/hellen-example/greenenergyecu.kicad_sch</source>
-    <date>2025-12-21T03:44:46+0000</date>
+    <date>2025-12-21T13:30:00+0000</date>
     <tool>Eeschema 8.0.9-8.0.9-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -712,14 +712,14 @@
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="LCSC">C21189</field>
+        <field name="LCSC">C23162</field>
         <field name="comentario"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C21189"/>
+      <property name="LCSC" value="C23162"/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="greenenergyecu.kicad_sch"/>
@@ -730,14 +730,14 @@
       <value>1k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="LCSC">C21189</field>
+        <field name="LCSC">C21190</field>
         <field name="comentario"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C21189"/>
+      <property name="LCSC" value="C21190"/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="greenenergyecu.kicad_sch"/>
