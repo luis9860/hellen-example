@@ -20911,7 +20911,6 @@
 			(size 0.7 0.92)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.1)
-			(net 217 "Net-(U2-IN1)")
 			(pintype "passive")
 			(uuid "4990903c-c19b-436f-a826-ff2a6130908a")
 		)
@@ -21470,7 +21469,7 @@
 		(at 168 57)
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
-		(property "Reference" "F10"
+		(property "Reference" "F9"
 			(at -3 0 0)
 			(layer "B.SilkS")
 			(uuid "7280fe24-8694-463e-8475-4e726205e548")
@@ -22238,7 +22237,6 @@
 			(size 0.7 0.92)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.1)
-			(net 218 "Net-(U2-IN2)")
 			(pintype "passive")
 			(uuid "d9eece68-8062-4545-9184-9d38d0b5471a")
 		)
@@ -24693,7 +24691,7 @@
 		(at 152 57)
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
-		(property "Reference" "F8"
+		(property "Reference" "F7"
 			(at -2.5 0 0)
 			(layer "B.SilkS")
 			(uuid "1ca3188d-3471-424e-8c8b-06f8ac801c51")
@@ -25617,7 +25615,6 @@
 			(size 0.7 0.92)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.1)
-			(net 216 "Net-(U1-IN2)")
 			(pintype "passive")
 			(uuid "2465a708-3c5e-45a4-815d-4c9d2c267e39")
 		)
@@ -26584,7 +26581,7 @@
 		(at 135.5 57)
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
-		(property "Reference" "F6"
+		(property "Reference" "F5"
 			(at -2.5 0 0)
 			(layer "B.SilkS")
 			(uuid "5db58e99-ad34-420f-91f6-585245b38fa4")
@@ -26831,7 +26828,7 @@
 		(at 127 57)
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
-		(property "Reference" "F5"
+		(property "Reference" "F4"
 			(at -2.5 0 0)
 			(layer "B.SilkS")
 			(uuid "3819316c-550b-463c-9b7a-91ca50437e96")
@@ -27078,7 +27075,7 @@
 		(at 160 57)
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
-		(property "Reference" "F9"
+		(property "Reference" "F8"
 			(at -2.5 0 0)
 			(layer "B.SilkS")
 			(uuid "d29cbd2c-6a3f-4975-a89f-9863d5d0f44a")
@@ -27454,7 +27451,6 @@
 			(size 0.7 0.92)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.1)
-			(net 215 "Net-(U1-IN1)")
 			(pintype "passive")
 			(uuid "cced2ac6-53cd-4976-a8f6-a53655f66b63")
 		)
@@ -28315,7 +28311,7 @@
 		(at 143.5 57)
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
-		(property "Reference" "F7"
+		(property "Reference" "F6"
 			(at -2.5 0 0)
 			(layer "B.SilkS")
 			(uuid "686c847e-e6f4-4480-a411-6503ccec348d")
@@ -39623,14 +39619,14 @@
 				(xy 180.688678 63.998574) (xy 180.688683 63.998573) (xy 180.870115 63.943537) (xy 181.037324 63.854162)
 				(xy 181.183883 63.733883) (xy 181.304162 63.587324) (xy 181.393537 63.420115) (xy 181.448573 63.238683)
 				(xy 181.448574 63.238678) (xy 181.467157 63.050003) (xy 181.467157 63.049996) (xy 181.448574 62.861321)
-				(xy 181.448573 62.861316) (xy 181.431877 62.80628) (xy 181.393537 62.679885) (xy 181.304162 62.512676)
+				(xy 181.448573 62.861316) (xy 181.431566 62.805252) (xy 181.393537 62.679885) (xy 181.304162 62.512676)
 				(xy 181.183883 62.366117) (xy 181.037324 62.245838) (xy 180.997959 62.224797) (xy 180.87012 62.156465)
 				(xy 180.870115 62.156463) (xy 180.688683 62.101426) (xy 180.688678 62.101425) (xy 180.500003 62.082843)
 				(xy 180.499997 62.082843) (xy 180.311321 62.101425) (xy 180.311316 62.101426) (xy 180.129884 62.156463)
 				(xy 180.129879 62.156465) (xy 179.962681 62.245835) (xy 179.962671 62.245841) (xy 179.816121 62.366113)
 				(xy 179.816113 62.366121) (xy 179.695841 62.512671) (xy 179.695835 62.512681) (xy 179.606465 62.679879)
 				(xy 179.606463 62.679884) (xy 179.551426 62.861316) (xy 179.551425 62.861321) (xy 179.532843 63.049996)
-				(xy 178.967157 63.049996) (xy 178.948574 62.861321) (xy 178.948573 62.861316) (xy 178.931877 62.80628)
+				(xy 178.967157 63.049996) (xy 178.948574 62.861321) (xy 178.948573 62.861316) (xy 178.931566 62.805252)
 				(xy 178.893537 62.679885) (xy 178.804162 62.512676) (xy 178.683883 62.366117) (xy 178.537324 62.245838)
 				(xy 178.497959 62.224797) (xy 178.37012 62.156465) (xy 178.370115 62.156463) (xy 178.188683 62.101426)
 				(xy 178.188678 62.101425) (xy 178.000003 62.082843) (xy 177.999997 62.082843) (xy 177.811321 62.101425)
@@ -42922,11 +42918,11 @@
 				(xy 142.8395 62.89336) (xy 136.153041 62.89336) (xy 136.144805 62.851956) (xy 136.085019 62.762481)
 				(xy 135.995544 62.702695) (xy 135.91664 62.687) (xy 135.08336 62.687) (xy 135.083359 62.687) (xy 135.067664 62.690122)
 				(xy 135.004456 62.702695) (xy 135.004455 62.702696) (xy 134.914983 62.762479) (xy 134.914979 62.762483)
-				(xy 134.880253 62.814455) (xy 134.855195 62.851956) (xy 134.8395 62.93086) (xy 128.1605 62.93086)
+				(xy 134.886402 62.805252) (xy 134.855195 62.851956) (xy 134.8395 62.93086) (xy 128.1605 62.93086)
 				(xy 128.1605 62.85586) (xy 128.144805 62.776956) (xy 128.085019 62.687481) (xy 127.995544 62.627695)
 				(xy 127.91664 62.612) (xy 127.08336 62.612) (xy 127.083359 62.612) (xy 127.067664 62.615122) (xy 127.004456 62.627695)
 				(xy 127.004455 62.627696) (xy 126.914983 62.687479) (xy 126.914979 62.687483) (xy 126.875123 62.747131)
-				(xy 126.855195 62.776956) (xy 126.847736 62.814455) (xy 126.840277 62.851956) (xy 126.8395 62.85586)
+				(xy 126.855195 62.776956) (xy 126.849567 62.805252) (xy 126.840277 62.851956) (xy 126.8395 62.85586)
 				(xy 123.4505 62.85586) (xy 123.4505 60.620725) (xy 150.1245 60.620725) (xy 150.1245 61.454274) (xy 150.127353 61.484694)
 				(xy 150.127355 61.484703) (xy 150.172207 61.612883) (xy 150.252845 61.722144) (xy 150.252847 61.722146)
 				(xy 150.25285 61.72215) (xy 150.252853 61.722152) (xy 150.252855 61.722154) (xy 150.362116 61.802792)
