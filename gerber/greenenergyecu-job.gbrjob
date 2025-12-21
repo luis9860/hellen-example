@@ -5,25 +5,33 @@
       "Application": "Pcbnew",
       "Version": "8.0.9-8.0.9-0~ubuntu24.04.1"
     },
-    "CreationDate": "2025-11-29T15:29:06+00:00"
+    "CreationDate": "2025-12-21T02:33:54+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "greenenergyecu",
       "GUID": "67726565-6e65-46e6-9572-67796563752e",
-      "Revision": "rev?"
+      "Revision": "d"
     },
     "Size": {
-      "X": 33.55,
-      "Y": 23.55
+      "X": 164.2,
+      "Y": 118.2
     },
-    "LayerNumber": 2,
+    "LayerNumber": 4,
     "BoardThickness": 1.6,
     "Finish": "None"
   },
   "DesignRules": [
     {
       "Layers": "Outer",
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
+      "TrackToTrack": 0.2,
+      "TrackToRegion": 0.2,
+      "RegionToRegion": 0.2
+    },
+    {
+      "Layers": "Inner",
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2
@@ -36,8 +44,18 @@
       "FilePolarity": "Positive"
     },
     {
+      "Path": "greenenergyecu-GND_Cu.g2",
+      "FileFunction": "Copper,L2,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "greenenergyecu-Power_Cu.g3",
+      "FileFunction": "Copper,L3,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
       "Path": "greenenergyecu-B_Cu.gbl",
-      "FileFunction": "Copper,L2,Bot",
+      "FileFunction": "Copper,L4,Bot",
       "FilePolarity": "Positive"
     },
     {
@@ -87,6 +105,7 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "Green",
       "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
@@ -97,10 +116,34 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 1.51,
+      "Thickness": 0.2,
       "Material": "FR4",
-      "Name": "F.Cu/B.Cu",
-      "Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)"
+      "Name": "F.Cu/GND.Cu",
+      "Notes": "Type: dielectric layer 1 (from F.Cu to GND.Cu)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.0175,
+      "Name": "GND.Cu"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 1.075,
+      "Material": "FR4",
+      "Name": "GND.Cu/Power.Cu",
+      "Notes": "Type: dielectric layer 2 (from GND.Cu to Power.Cu)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.0175,
+      "Name": "Power.Cu"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.2,
+      "Material": "FR4",
+      "Name": "Power.Cu/B.Cu",
+      "Notes": "Type: dielectric layer 3 (from Power.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
@@ -109,6 +152,7 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "Green",
       "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
