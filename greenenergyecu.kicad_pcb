@@ -3225,7 +3225,7 @@
 		(layer "F.Cu")
 		(uuid "15e8ebfd-ce99-407c-9d28-7ce8655f55c1")
 		(at 173.209999 63.5 180)
-		(property "Reference" "C28"
+		(property "Reference" "C1"
 			(at -1.290001 -0.74013 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -5192,7 +5192,7 @@
 		(layer "F.Cu")
 		(uuid "272776fa-492a-44b3-85cd-546ee26b60b3")
 		(at 175.290001 62.5)
-		(property "Reference" "C30"
+		(property "Reference" "C2"
 			(at 1.709999 1 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -8203,7 +8203,7 @@
 		(layer "F.Cu")
 		(uuid "4e6cfee2-079e-4276-b292-54c44f6fd142")
 		(at 175.5 56)
-		(property "Reference" "C29"
+		(property "Reference" "C3"
 			(at -0.708119 -0.74013 0)
 			(unlocked yes)
 			(layer "F.SilkS")
