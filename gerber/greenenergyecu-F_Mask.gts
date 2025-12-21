@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.8*
-G04 #@! TF.CreationDate,2025-12-21T18:17:35-05:00*
+G04 #@! TF.CreationDate,2025-12-21T18:23:07-05:00*
 G04 #@! TF.ProjectId,greenenergyecu,67726565-6e65-46e6-9572-67796563752e,d*
 G04 #@! TF.SameCoordinates,PX2b953a0PY6943058*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.8) date 2025-12-21 18:17:35*
+G04 Created by KiCad (PCBNEW 8.0.8) date 2025-12-21 18:23:07*
 %MOMM*%
 %LPD*%
 G01*
@@ -161,7 +161,7 @@ X126748000Y18622000D03*
 X132548000Y18622000D03*
 X138448000Y18622000D03*
 G04 #@! TD*
-G04 #@! TO.C,C32*
+G04 #@! TO.C,C5*
 G36*
 G01*
 X131960000Y59590001D02*
@@ -3242,7 +3242,7 @@ X17850000Y49105000I0J-70000D01*
 G01*
 G37*
 G04 #@! TD*
-G04 #@! TO.C,C31*
+G04 #@! TO.C,C4*
 G36*
 G01*
 X130460000Y59590001D02*
