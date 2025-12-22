@@ -841,7 +841,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ceb7ef5-59d9-48d3-9cf7-a840b35a2e34")
-		(property "Reference" "U7"
+		(property "Reference" "U844"
 			(at 125.73 73.66 0)
 			(effects
 				(font
@@ -929,7 +929,7 @@
 		(instances
 			(project "greenenergyecu"
 				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/bdc55f5a-1abb-4701-b1a5-3e8a3596401f"
-					(reference "U7")
+					(reference "U844")
 					(unit 1)
 				)
 			)

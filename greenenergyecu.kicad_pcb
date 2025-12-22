@@ -3360,7 +3360,7 @@
 		(at 172.5 50.5 90)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
-		(property "Reference" "U8"
+		(property "Reference" "U846"
 			(at 0 -3.5 90)
 			(layer "F.SilkS")
 			(uuid "86e98e27-5365-4ab6-92b6-3b8b84de75e4")
@@ -4182,8 +4182,8 @@
 		(at 127.22 63.065 -90)
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
-		(property "Reference" "Q1"
-			(at 0 -4.5 90)
+		(property "Reference" "Q841"
+			(at -4.565 0.22 90)
 			(layer "F.SilkS")
 			(uuid "f363485c-0a5a-4c27-8c29-08cf3a31d266")
 			(effects
@@ -4856,8 +4856,8 @@
 		(at 134.5 51.5 -90)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
-		(property "Reference" "U3"
-			(at 0 -3.4 90)
+		(property "Reference" "U842"
+			(at -5 0 180)
 			(layer "F.SilkS")
 			(uuid "f54b4bea-b8eb-42f9-8406-105ff62d4b13")
 			(effects
@@ -6722,8 +6722,8 @@
 		(at 149 51.5 -90)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
-		(property "Reference" "U5"
-			(at 0 -3.4 90)
+		(property "Reference" "U848"
+			(at -5 0 180)
 			(layer "F.SilkS")
 			(uuid "e68d9e20-7535-4123-b54b-263e7d467a1a")
 			(effects
@@ -8338,8 +8338,8 @@
 		(at 160 63.065 -90)
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
-		(property "Reference" "Q5"
-			(at 0 -4.5 90)
+		(property "Reference" "Q845"
+			(at -4.565 0 90)
 			(layer "F.SilkS")
 			(uuid "14950f14-3fe1-475b-9675-f3ec777d09cd")
 			(effects
@@ -8769,8 +8769,8 @@
 		(at 135.415 63.065 -90)
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
-		(property "Reference" "Q2"
-			(at 0 -4.5 90)
+		(property "Reference" "Q842"
+			(at -4.565 -0.085 90)
 			(layer "F.SilkS")
 			(uuid "6aa43f88-6c76-446c-9632-d89d819ba9c9")
 			(effects
@@ -11059,8 +11059,8 @@
 		(at 162.905 51.5 -90)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
-		(property "Reference" "U7"
-			(at 0 -3.4 90)
+		(property "Reference" "U844"
+			(at -5 0.405 180)
 			(layer "F.SilkS")
 			(uuid "2fedecdb-0838-4348-8fc8-9a0dab2339d1")
 			(effects
@@ -11397,8 +11397,8 @@
 		(at 155.5 51.5 -90)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
-		(property "Reference" "U4"
-			(at 0 -3.4 90)
+		(property "Reference" "U847"
+			(at -5 0 180)
 			(layer "F.SilkS")
 			(uuid "06433aa0-dfab-4274-979e-9f5485fcdfcc")
 			(effects
@@ -12164,8 +12164,8 @@
 		(at 143.61 63.065 -90)
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
-		(property "Reference" "Q3"
-			(at 0 -4.5 90)
+		(property "Reference" "Q843"
+			(at -4.065 -0.39 90)
 			(layer "F.SilkS")
 			(uuid "f9d54b6a-fd25-41a3-bea5-f4ceddec3da4")
 			(effects
@@ -12595,8 +12595,8 @@
 		(at 168.195 63.065 -90)
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
-		(property "Reference" "Q6"
-			(at 5.935 -0.305 90)
+		(property "Reference" "Q846"
+			(at -4.565 0.195 90)
 			(layer "F.SilkS")
 			(uuid "ed00d16f-9ae8-41d3-a586-cca4b0ff68db")
 			(effects
@@ -15060,7 +15060,7 @@
 		(at 187.5 23 -90)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
-		(property "Reference" "U11"
+		(property "Reference" "U2"
 			(at 0 -3.4 90)
 			(layer "F.SilkS")
 			(uuid "97ed7850-b436-4064-8882-737220c0f6b9")
@@ -16885,8 +16885,8 @@
 		(at 127 51.5 -90)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
-		(property "Reference" "U9"
-			(at 0 -3.4 90)
+		(property "Reference" "U843"
+			(at -5 0 180)
 			(layer "F.SilkS")
 			(uuid "d6eb0d80-1e43-4cc7-871f-ca74f085c3bf")
 			(effects
@@ -18062,8 +18062,8 @@
 		(at 151.805 63.065 -90)
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
-		(property "Reference" "Q4"
-			(at 0 -4.5 90)
+		(property "Reference" "Q844"
+			(at -4.565 -0.195 90)
 			(layer "F.SilkS")
 			(uuid "f3c1d7f3-95e7-4ad7-9480-ddb6a9729ef6")
 			(effects
@@ -18493,8 +18493,8 @@
 		(at 141.865 51.5 -90)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
-		(property "Reference" "U6"
-			(at 0 -3.4 90)
+		(property "Reference" "U849"
+			(at -5 -0.635 180)
 			(layer "F.SilkS")
 			(uuid "aad926b0-f28f-4671-a721-e334a494ea6f")
 			(effects
@@ -18981,7 +18981,7 @@
 		(at 168.195 64 -90)
 		(descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
-		(property "Reference" "R28"
+		(property "Reference" "R878"
 			(at 0 2.62 90)
 			(layer "B.SilkS")
 			(uuid "35e0c3e5-cc07-432d-ae54-412f611dc425")
@@ -19223,7 +19223,7 @@
 		(layer "B.Cu")
 		(uuid "15f6155d-9fb8-424d-8ec3-ad7a8e66acc7")
 		(at 135.5 59 180)
-		(property "Reference" "R18"
+		(property "Reference" "R868"
 			(at 4 0.5 180)
 			(unlocked yes)
 			(layer "B.SilkS")
@@ -19909,7 +19909,7 @@
 		(at 168 57)
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
-		(property "Reference" "F10"
+		(property "Reference" "F849"
 			(at -3 0 0)
 			(layer "B.SilkS")
 			(uuid "7280fe24-8694-463e-8475-4e726205e548")
@@ -20449,7 +20449,7 @@
 		(layer "B.Cu")
 		(uuid "36933b24-7d7c-41a0-ad24-5e8b2bbc0297")
 		(at 143.5 59 180)
-		(property "Reference" "R19"
+		(property "Reference" "R869"
 			(at 4 0.5 180)
 			(unlocked yes)
 			(layer "B.SilkS")
@@ -21283,7 +21283,7 @@
 		(layer "B.Cu")
 		(uuid "64e92a3f-a7bb-49be-b840-e61b196984a0")
 		(at 127 59 180)
-		(property "Reference" "R17"
+		(property "Reference" "R867"
 			(at 4 0.5 180)
 			(unlocked yes)
 			(layer "B.SilkS")
@@ -21433,7 +21433,7 @@
 		(layer "B.Cu")
 		(uuid "65d5f6f4-8d39-4db7-82b0-62ac09035fed")
 		(at 152 59 180)
-		(property "Reference" "R23"
+		(property "Reference" "R873"
 			(at 4 0.5 180)
 			(unlocked yes)
 			(layer "B.SilkS")
@@ -22567,7 +22567,7 @@
 		(at 127.5 63.9625 -90)
 		(descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
-		(property "Reference" "R20"
+		(property "Reference" "R870"
 			(at 0.0375 4 90)
 			(layer "B.SilkS")
 			(uuid "4305571c-a702-4bcd-ad62-b40cfcf718bd")
@@ -23111,7 +23111,7 @@
 		(at 152 57)
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
-		(property "Reference" "F8"
+		(property "Reference" "F847"
 			(at -2.5 0 0)
 			(layer "B.SilkS")
 			(uuid "1ca3188d-3471-424e-8c8b-06f8ac801c51")
@@ -23507,7 +23507,7 @@
 		(at 152 64 -90)
 		(descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
-		(property "Reference" "R26"
+		(property "Reference" "R876"
 			(at 0 3 90)
 			(layer "B.SilkS")
 			(uuid "d1c683cf-5036-4630-9c28-2734999eef91")
@@ -24801,7 +24801,7 @@
 		(at 135.5 57)
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
-		(property "Reference" "F6"
+		(property "Reference" "F845"
 			(at -2.5 0 0)
 			(layer "B.SilkS")
 			(uuid "5db58e99-ad34-420f-91f6-585245b38fa4")
@@ -25047,7 +25047,7 @@
 		(at 127 57)
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
-		(property "Reference" "F5"
+		(property "Reference" "F844"
 			(at -2.5 0 0)
 			(layer "B.SilkS")
 			(uuid "3819316c-550b-463c-9b7a-91ca50437e96")
@@ -25293,7 +25293,7 @@
 		(at 160 57)
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
-		(property "Reference" "F9"
+		(property "Reference" "F848"
 			(at -2.5 0 0)
 			(layer "B.SilkS")
 			(uuid "d29cbd2c-6a3f-4975-a89f-9863d5d0f44a")
@@ -26221,7 +26221,7 @@
 		(layer "B.Cu")
 		(uuid "cff2ec48-4246-4387-a398-72459fb6ae69")
 		(at 160 59 180)
-		(property "Reference" "R24"
+		(property "Reference" "R874"
 			(at 3.5 0.5 180)
 			(unlocked yes)
 			(layer "B.SilkS")
@@ -26523,7 +26523,7 @@
 		(at 143.5 57)
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
-		(property "Reference" "F7"
+		(property "Reference" "F846"
 			(at -2.5 0 0)
 			(layer "B.SilkS")
 			(uuid "686c847e-e6f4-4480-a411-6503ccec348d")
@@ -27069,7 +27069,7 @@
 		(at 143.5 64 -90)
 		(descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
-		(property "Reference" "R22"
+		(property "Reference" "R872"
 			(at 0 2.62 90)
 			(layer "B.SilkS")
 			(uuid "c554b821-416d-4da7-8e80-d7fbd3fafa1f")
@@ -27464,7 +27464,7 @@
 		(at 160 64 -90)
 		(descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
-		(property "Reference" "R27"
+		(property "Reference" "R877"
 			(at 0 3 90)
 			(layer "B.SilkS")
 			(uuid "f56587bb-d0e7-48d8-ad96-307eb9ac2e59")
@@ -27709,7 +27709,7 @@
 		(at 135.5 64.0375 -90)
 		(descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
-		(property "Reference" "R21"
+		(property "Reference" "R871"
 			(at 0 3 90)
 			(layer "B.SilkS")
 			(uuid "cd58e194-6550-40ec-8398-978c19798c7e")
@@ -27952,7 +27952,7 @@
 		(layer "B.Cu")
 		(uuid "fde26f14-392c-442f-922e-e0d6aac4cb87")
 		(at 168 59 180)
-		(property "Reference" "R25"
+		(property "Reference" "R875"
 			(at 4 0.5 180)
 			(unlocked yes)
 			(layer "B.SilkS")

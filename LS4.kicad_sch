@@ -1337,7 +1337,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5ea9af01-255b-4b87-9153-3fc803d181dd")
-		(property "Reference" "U2"
+		(property "Reference" "U843"
 			(at 146.05 95.25 0)
 			(effects
 				(font
@@ -1425,7 +1425,7 @@
 		(instances
 			(project "greenenergyecu"
 				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/37c68176-bc6d-4360-9788-c5c46985dc55"
-					(reference "U2")
+					(reference "U843")
 					(unit 1)
 				)
 			)
@@ -1960,7 +1960,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dbc89313-2369-406d-818d-b2229f5a32bc")
-		(property "Reference" "U1"
+		(property "Reference" "U842"
 			(at 143.51 55.88 0)
 			(effects
 				(font
@@ -2048,7 +2048,7 @@
 		(instances
 			(project "greenenergyecu"
 				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/37c68176-bc6d-4360-9788-c5c46985dc55"
-					(reference "U1")
+					(reference "U842")
 					(unit 1)
 				)
 			)

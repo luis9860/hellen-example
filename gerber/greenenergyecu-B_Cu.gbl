@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.8*
-G04 #@! TF.CreationDate,2025-12-21T18:45:17-05:00*
+G04 #@! TF.CreationDate,2025-12-22T00:27:09-05:00*
 G04 #@! TF.ProjectId,greenenergyecu,67726565-6e65-46e6-9572-67796563752e,d*
 G04 #@! TF.SameCoordinates,PX2b953a0PY6943058*
 G04 #@! TF.FileFunction,Copper,L4,Bot*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.8) date 2025-12-21 18:45:17*
+G04 Created by KiCad (PCBNEW 8.0.8) date 2025-12-22 00:27:09*
 %MOMM*%
 %LPD*%
 G01*
@@ -1228,7 +1228,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,R18,1*
+G04 #@! TO.P,R868,1*
 G04 #@! TO.N,Net-(Q2-G)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -1256,7 +1256,7 @@ X90950000Y51765000I0J-70000D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,R18,2*
+G04 #@! TO.P,R868,2*
 G04 #@! TO.N,Net-(F6-Pad1)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -1456,7 +1456,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,F10,1*
+G04 #@! TO.P,F849,1*
 G04 #@! TO.N,N/C*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -1484,7 +1484,7 @@ X121075000Y53118750I0J218750D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,F10,2*
+G04 #@! TO.P,F849,2*
 G04 #@! TO.N,/IGN6*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -1570,7 +1570,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,R19,1*
+G04 #@! TO.P,R869,1*
 G04 #@! TO.N,Net-(Q3-G)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -1598,7 +1598,7 @@ X98950000Y51765000I0J-70000D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,R19,2*
+G04 #@! TO.P,R869,2*
 G04 #@! TO.N,Net-(F7-Pad1)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -1855,7 +1855,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,R17,1*
+G04 #@! TO.P,R867,1*
 G04 #@! TO.N,Net-(Q1-G)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -1883,7 +1883,7 @@ X82450000Y51765000I0J-70000D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,R17,2*
+G04 #@! TO.P,R867,2*
 G04 #@! TO.N,Net-(F5-Pad1)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -1912,7 +1912,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,R23,1*
+G04 #@! TO.P,R873,1*
 G04 #@! TO.N,Net-(Q4-G)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -1940,7 +1940,7 @@ X107450000Y51765000I0J-70000D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,R23,2*
+G04 #@! TO.P,R873,2*
 G04 #@! TO.N,Net-(F8-Pad1)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -2425,7 +2425,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,F8,1*
+G04 #@! TO.P,F847,1*
 G04 #@! TO.N,Net-(F8-Pad1)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -2453,7 +2453,7 @@ X105075000Y53118750I0J218750D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,F8,2*
+G04 #@! TO.P,F847,2*
 G04 #@! TO.N,/IGN4*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -2539,7 +2539,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,R26,1*
+G04 #@! TO.P,R876,1*
 G04 #@! TO.N,Net-(F8-Pad1)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -2567,7 +2567,7 @@ X104875000Y49950000I250000J0D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,R26,2*
+G04 #@! TO.P,R876,2*
 G04 #@! TO.N,PIN9*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -2881,7 +2881,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,F6,1*
+G04 #@! TO.P,F845,1*
 G04 #@! TO.N,Net-(F6-Pad1)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -2909,7 +2909,7 @@ X88575000Y53118750I0J218750D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,F6,2*
+G04 #@! TO.P,F845,2*
 G04 #@! TO.N,/IGN2*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -2938,7 +2938,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,F5,1*
+G04 #@! TO.P,F844,1*
 G04 #@! TO.N,Net-(F5-Pad1)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -2966,7 +2966,7 @@ X80075000Y53118750I0J218750D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,F5,2*
+G04 #@! TO.P,F844,2*
 G04 #@! TO.N,/IGN1*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -2995,7 +2995,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,F9,1*
+G04 #@! TO.P,F848,1*
 G04 #@! TO.N,Net-(F9-Pad1)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -3023,7 +3023,7 @@ X113075000Y53118750I0J218750D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,F9,2*
+G04 #@! TO.P,F848,2*
 G04 #@! TO.N,/IGN5*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -3280,7 +3280,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,R24,1*
+G04 #@! TO.P,R874,1*
 G04 #@! TO.N,Net-(Q5-G)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -3308,7 +3308,7 @@ X115450000Y51765000I0J-70000D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,R24,2*
+G04 #@! TO.P,R874,2*
 G04 #@! TO.N,Net-(F9-Pad1)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -3394,7 +3394,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,F7,1*
+G04 #@! TO.P,F846,1*
 G04 #@! TO.N,Net-(F7-Pad1)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -3422,7 +3422,7 @@ X96575000Y53118750I0J218750D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,F7,2*
+G04 #@! TO.P,F846,2*
 G04 #@! TO.N,/IGN3*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -3622,7 +3622,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,R27,1*
+G04 #@! TO.P,R877,1*
 G04 #@! TO.N,Net-(F9-Pad1)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -3650,7 +3650,7 @@ X112875000Y49950000I250000J0D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,R27,2*
+G04 #@! TO.P,R877,2*
 G04 #@! TO.N,PIN11*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -3850,7 +3850,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,R28,1*
+G04 #@! TO.P,R878,1*
 G04 #@! TO.N,N/C*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -3878,7 +3878,7 @@ X121070000Y49950000I250000J0D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,R28,2*
+G04 #@! TO.P,R878,2*
 G04 #@! TO.N,PIN8*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -3907,7 +3907,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,R25,1*
+G04 #@! TO.P,R875,1*
 G04 #@! TO.N,Net-(Q6-G)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -3935,7 +3935,7 @@ X123450000Y51765000I0J-70000D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,R25,2*
+G04 #@! TO.P,R875,2*
 G04 #@! TO.N,N/C*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -3964,7 +3964,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,R22,1*
+G04 #@! TO.P,R872,1*
 G04 #@! TO.N,Net-(F7-Pad1)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -3992,7 +3992,7 @@ X96375000Y49950000I250000J0D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,R22,2*
+G04 #@! TO.P,R872,2*
 G04 #@! TO.N,PIN10*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -4021,7 +4021,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,R21,1*
+G04 #@! TO.P,R871,1*
 G04 #@! TO.N,Net-(F6-Pad1)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -4049,7 +4049,7 @@ X88375000Y49912500I250000J0D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,R21,2*
+G04 #@! TO.P,R871,2*
 G04 #@! TO.N,PIN12*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -4078,7 +4078,7 @@ G01*
 G37*
 G04 #@! TD.AperFunction*
 G04 #@! TD*
-G04 #@! TO.P,R20,1*
+G04 #@! TO.P,R870,1*
 G04 #@! TO.N,Net-(F5-Pad1)*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
@@ -4106,7 +4106,7 @@ X80375000Y49987500I250000J0D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-G04 #@! TO.P,R20,2*
+G04 #@! TO.P,R870,2*
 G04 #@! TO.N,PIN13*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
