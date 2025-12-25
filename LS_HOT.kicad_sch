@@ -668,7 +668,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1f737edd-26a3-42b5-b368-f48124febc78")
-		(property "Reference" "R52"
+		(property "Reference" "R302"
 			(at 156.21 83.82 0)
 			(effects
 				(font
@@ -738,7 +738,7 @@
 		(instances
 			(project "greenenergyecu"
 				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/bdc55f5a-1abb-4701-b1a5-3e8a3596401f"
-					(reference "R52")
+					(reference "R302")
 					(unit 1)
 				)
 			)
@@ -754,7 +754,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "397b6c33-c656-4b01-b88e-01d02571dff1")
-		(property "Reference" "R50"
+		(property "Reference" "R300"
 			(at 156.21 78.74 0)
 			(effects
 				(font
@@ -824,7 +824,7 @@
 		(instances
 			(project "greenenergyecu"
 				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/bdc55f5a-1abb-4701-b1a5-3e8a3596401f"
-					(reference "R50")
+					(reference "R300")
 					(unit 1)
 				)
 			)
@@ -945,7 +945,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "65b0d6f3-2405-4a8f-aad5-ee800d5aef07")
-		(property "Reference" "R53"
+		(property "Reference" "R303"
 			(at 158.75 91.44 0)
 			(effects
 				(font
@@ -1015,7 +1015,7 @@
 		(instances
 			(project "greenenergyecu"
 				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/bdc55f5a-1abb-4701-b1a5-3e8a3596401f"
-					(reference "R53")
+					(reference "R303")
 					(unit 1)
 				)
 			)
@@ -1161,7 +1161,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d8353e40-d586-4830-8e48-60f528fb2e9f")
-		(property "Reference" "R51"
+		(property "Reference" "R301"
 			(at 158.75 76.2 0)
 			(effects
 				(font
@@ -1231,7 +1231,7 @@
 		(instances
 			(project "greenenergyecu"
 				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/bdc55f5a-1abb-4701-b1a5-3e8a3596401f"
-					(reference "R51")
+					(reference "R301")
 					(unit 1)
 				)
 			)
