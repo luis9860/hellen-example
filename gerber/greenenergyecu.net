@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/hellen-example/hellen-example/greenenergyecu.kicad_sch</source>
-    <date>2025-12-25T16:20:22+0000</date>
+    <date>2025-12-28T01:44:32+0000</date>
     <tool>Eeschema 8.0.9-8.0.9-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -452,11 +452,11 @@
     </comp>
     <comp ref="P1">
       <value>368255-2</value>
-      <footprint>368255-2:368255-2</footprint>
+      <footprint>footprints:368255-2</footprint>
       <datasheet>DOCUMENTATION</datasheet>
       <fields>
         <field name="comentario"/>
-        <field name="Footprint">368255-2:368255-2</field>
+        <field name="Footprint">footprints:368255-2</field>
         <field name="Datasheet">DOCUMENTATION</field>
         <field name="Description"/>
       </fields>
@@ -2720,7 +2720,17 @@
       </pins>
     </libpart>
   </libparts>
-  <libraries/>
+  <libraries>
+    <library logical="368255-2">
+      <uri>/home/runner/work/hellen-example/hellen-example/footprints/368255-2.kicad_sym</uri>
+    </library>
+    <library logical="motor-driver">
+      <uri>/home/runner/work/hellen-example/hellen-example/hellen-one/modules/motor-driver/0.1/motor-driver.kicad_sym</uri>
+    </library>
+    <library logical="vr-max9924">
+      <uri>/home/runner/work/hellen-example/hellen-example/hellen-one/modules/vr-max9924/0.1/vr-max9924.kicad_sym</uri>
+    </library>
+  </libraries>
   <nets>
     <net code="1" name="+3.3V">
       <node ref="M6" pin="N21" pinfunction="V33" pintype="passive"/>

@@ -31,7 +31,7 @@
 "Module:mega-mcu100/0.3","M6","hellen-one-mega-mcu100-0.3:mega-mcu100",""
 "Module-can-0.1","M7","hellen-one-can-0.1:can",""
 "Module-motor-driver-0.1","M8","hellen-one-motor-driver-0.1:motor-driver",""
-"368255-2","P1","368255-2:368255-2",""
+"368255-2","P1","footprints:368255-2",""
 "AO3400A","Q1","Package_TO_SOT_SMD:SOT-23",""
 "ISL9V3040D3ST","Q841","Package_TO_SOT_SMD:TO-252-2",""
 "ISL9V3040D3ST","Q842","Package_TO_SOT_SMD:TO-252-2",""
