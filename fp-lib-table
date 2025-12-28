@@ -10,4 +10,5 @@
   (lib (name "hellen-one-vr-discrete-0.5")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/vr-discrete/0.5")(options "")(descr ""))
   (lib (name "hellen-one-power_12and5V-0.3")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/power_12and5V/0.3")(options "")(descr ""))
   (lib (name "hellen-one-common")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/kicad/footprints")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints")(options "")(descr ""))
 )

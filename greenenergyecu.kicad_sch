@@ -21811,7 +21811,7 @@
 				)
 			)
 		)
-		(property "Footprint" "368255-2:368255-2"
+		(property "Footprint" "footprints:368255-2"
 			(at 27.94 171.45 0)
 			(effects
 				(font
@@ -22244,7 +22244,7 @@
 				)
 			)
 		)
-		(property "Footprint" "368255-2:368255-2"
+		(property "Footprint" "footprints:368255-2"
 			(at 24.13 350.52 0)
 			(effects
 				(font
