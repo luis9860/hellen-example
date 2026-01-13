@@ -6,3 +6,4 @@ fp-info-cache
 
 # project local?
 *.kicad_prl
+"gerber/" 
