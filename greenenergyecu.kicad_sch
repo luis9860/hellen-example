@@ -8767,6 +8767,12 @@
 		(uuid "245d089f-860a-4e21-8a0a-3005a0664e96")
 	)
 	(junction
+		(at 421.64 231.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2a4ee702-dc20-432a-a2c6-e4ff9f1c99c9")
+	)
+	(junction
 		(at 205.74 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10834,16 +10840,6 @@
 		)
 		(uuid "26e8f436-5fbd-48f4-a4f4-0828689ac551")
 	)
-	(wire
-		(pts
-			(xy 421.64 229.87) (xy 421.64 237.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "27058699-c5d5-49f3-b744-9ec39d7df30f")
-	)
 	(bus
 		(pts
 			(xy 125.73 137.16) (xy 125.73 139.7)
@@ -11815,6 +11811,16 @@
 	)
 	(wire
 		(pts
+			(xy 421.64 229.87) (xy 421.64 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57415535-7ca0-4a29-b70e-8415380a9553")
+	)
+	(wire
+		(pts
 			(xy 252.73 257.81) (xy 262.89 257.81)
 		)
 		(stroke
@@ -11892,6 +11898,16 @@
 			(type default)
 		)
 		(uuid "59cd33ba-01e9-40ba-bbb3-daaf520a8fb6")
+	)
+	(wire
+		(pts
+			(xy 421.64 231.14) (xy 421.64 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a1a5b07-4250-4d54-938a-72a2f10e873b")
 	)
 	(wire
 		(pts
@@ -14162,6 +14178,16 @@
 			(color 255 153 0 1)
 		)
 		(uuid "bdeced81-473d-45e4-aa62-816f2d2abd0e")
+	)
+	(wire
+		(pts
+			(xy 427.99 231.14) (xy 421.64 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be2c946d-11fa-47a6-8b37-16f7803f8c21")
 	)
 	(wire
 		(pts
@@ -23557,6 +23583,91 @@
 			(project "hellen121vag"
 				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73"
 					(reference "M3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "hellen-one-common:Res")
+		(at 427.99 220.98 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "25d7a921-aacb-424d-b5cd-38de22ec90ef")
+		(property "Reference" "R1"
+			(at 430.53 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 427.99 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "hellen-one-common:R0603"
+			(at 424.18 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 427.99 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 427.99 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C21190"
+			(at 427.99 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
+			(at 427.99 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bd5be03d-732f-4bb0-954a-847a236b260e")
+		)
+		(pin "2"
+			(uuid "bd7df2f9-3822-4402-a24c-7bb064f4ecc8")
+		)
+		(instances
+			(project "greenenergyecu"
+				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73"
+					(reference "R1")
 					(unit 1)
 				)
 			)
