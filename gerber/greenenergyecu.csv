@@ -39,6 +39,7 @@
 "ISL9V3040D3ST","Q844","Package_TO_SOT_SMD:TO-252-2",""
 "ISL9V3040D3ST","Q845","Package_TO_SOT_SMD:TO-252-2",""
 "ISL9V3040D3ST","Q846","Package_TO_SOT_SMD:TO-252-2",""
+"1k","R1","hellen-one-common:R0603","C21190"
 "1k","R3","hellen-one-common:R0603","C21190"
 "4.7k","R4","hellen-one-common:R0603","C23162"
 "DNP","R7","hellen-one-common:R0805",""
