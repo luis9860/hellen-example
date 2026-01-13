@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 0.92,
+          "width": 0.7
         },
         "silk_line_width": 0.381,
         "silk_text_italic": false,
@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.3048,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -186,8 +186,15 @@
         0.5,
         0.8,
         1.0,
+        1.2,
+        1.3,
+        1.4,
+        1.5,
+        1.8,
         2.0,
-        3.0
+        2.5,
+        3.0,
+        6.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -221,8 +228,36 @@
           "drill": 0.0
         },
         {
+          "diameter": 0.15,
+          "drill": 0.075
+        },
+        {
+          "diameter": 0.2,
+          "drill": 0.1
+        },
+        {
+          "diameter": 0.3,
+          "drill": 0.15
+        },
+        {
+          "diameter": 0.4,
+          "drill": 0.2
+        },
+        {
           "diameter": 0.6,
           "drill": 0.3
+        },
+        {
+          "diameter": 0.8,
+          "drill": 0.4
+        },
+        {
+          "diameter": 1.0,
+          "drill": 0.5
+        },
+        {
+          "diameter": 1.5,
+          "drill": 0.7
         }
       ],
       "zones_allow_external_fillets": false
@@ -522,6 +557,23 @@
         "line_style": 0,
         "microvia_diameter": 0.508,
         "microvia_drill": 0.127,
+        "name": "3.75A",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 1.5,
+        "via_diameter": 1.0,
+        "via_drill": 0.5,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.508,
+        "microvia_drill": 0.127,
         "name": "5A",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -613,6 +665,14 @@
       {
         "netclass": "Crank",
         "pattern": "/IN_CRANK-"
+      },
+      {
+        "netclass": "5A",
+        "pattern": "OUT_IGN*"
+      },
+      {
+        "netclass": "5A",
+        "pattern": "OUT_IGN4"
       }
     ]
   },
@@ -833,12 +893,12 @@
       "Ignition"
     ],
     [
-      "5bf5a5f3-cb81-43b4-ad19-7826a949969c",
-      "Injector"
+      "cf345566-d528-42c3-a497-54226627846b",
+      "LSH"
     ],
     [
-      "bdc55f5a-1abb-4701-b1a5-3e8a3596401f",
-      "LS HOT"
+      "5bf5a5f3-cb81-43b4-ad19-7826a949969c",
+      "Injector"
     ],
     [
       "6cde32b6-05f2-499d-9aff-ad44aab97055",

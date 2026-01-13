@@ -9,4 +9,5 @@
   (lib (name "can")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/can/0.1/can.kicad_sym")(options "")(descr ""))
   (lib (name "motor-driver")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/motor-driver/0.1/motor-driver.kicad_sym")(options "")(descr ""))
   (lib (name "368255-2")(type "KiCad")(uri "${KIPRJMOD}/footprints/368255-2.kicad_sym")(options "")(descr ""))
+  (lib (name "ign8")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/ign8/0.2/ign8.kicad_sym")(options "")(descr ""))
 )
