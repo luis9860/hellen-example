@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/hellen-example/hellen-example/greenenergyecu.kicad_sch</source>
-    <date>2026-01-13T17:11:52+0000</date>
+    <date>2026-01-13T18:29:25+0000</date>
     <tool>Eeschema 8.0.9-8.0.9-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -2009,14 +2009,14 @@
       <value>10k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="LCSC">C23162</field>
+        <field name="LCSC">C17414 </field>
         <field name="comentario"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value="C17414 "/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
@@ -2027,14 +2027,14 @@
       <value>10k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="LCSC">C23162</field>
+        <field name="LCSC">C17414</field>
         <field name="comentario"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value="C17414"/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
@@ -2045,14 +2045,14 @@
       <value>10k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="LCSC">C23162</field>
+        <field name="LCSC">C17414</field>
         <field name="comentario"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value="C17414"/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
@@ -2063,14 +2063,14 @@
       <value>10k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="LCSC">C23162</field>
+        <field name="LCSC">C17414</field>
         <field name="comentario"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value="C17414"/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
@@ -2081,14 +2081,14 @@
       <value>10k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="LCSC">C23162</field>
+        <field name="LCSC">C17414</field>
         <field name="comentario"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value="C17414"/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
@@ -2099,14 +2099,14 @@
       <value>10k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="LCSC">C23162</field>
+        <field name="LCSC">C17414</field>
         <field name="comentario"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value="C17414"/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
@@ -2117,14 +2117,14 @@
       <value>10k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="LCSC">C23162</field>
+        <field name="LCSC">C17414</field>
         <field name="comentario"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value="C17414"/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
@@ -2135,14 +2135,14 @@
       <value>10k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="LCSC">C23162</field>
+        <field name="LCSC">C17414</field>
         <field name="comentario"/>
         <field name="Footprint">hellen-one-common:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value="C17414"/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
