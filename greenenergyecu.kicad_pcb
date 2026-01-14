@@ -3695,7 +3695,7 @@
 		(uuid "1d844e56-a723-450e-a7a6-2d4d2db82a8d")
 		(at 136.23001 55.03 180)
 		(property "Reference" "F843"
-			(at -4 0 90)
+			(at -0.11999 2.46 90)
 			(layer "F.SilkS")
 			(uuid "04461fca-45b5-48ef-88cc-02219fc7c80d")
 			(effects
@@ -3868,7 +3868,7 @@
 			(uuid "5f79c567-66a9-4cfb-8a03-b208ad1bf542")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -4 0 90)
+			(at -0.11999 2.46 90)
 			(layer "B.SilkS")
 			(uuid "d0e71e55-1424-4298-99f4-280eb5bba7a4")
 			(effects
@@ -3940,7 +3940,7 @@
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
 		(property "Reference" "Q841"
-			(at -4.565 0.22 90)
+			(at -4.98 -8.66 90)
 			(layer "F.SilkS")
 			(uuid "f363485c-0a5a-4c27-8c29-08cf3a31d266")
 			(effects
@@ -4371,7 +4371,7 @@
 		(uuid "1e20bb49-9c8a-42d3-ab88-18c1be04bb89")
 		(at 140.79101 68.561 180)
 		(property "Reference" "F841"
-			(at -4 0 90)
+			(at -4.33899 -0.049 90)
 			(layer "F.SilkS")
 			(uuid "46f263b0-577f-45eb-9c8f-f0780d68843c")
 			(effects
@@ -4544,7 +4544,7 @@
 			(uuid "f3571958-1c44-4423-b40d-b721fd319072")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -4 0 90)
+			(at -4.24899 -0.129 90)
 			(layer "B.SilkS")
 			(uuid "565df3b7-3d00-4372-8865-576f09ed93de")
 			(effects
@@ -4614,7 +4614,7 @@
 		(uuid "250106c6-fef2-4474-9882-e738aea39073")
 		(at 79.671 67.574)
 		(property "Reference" "R843"
-			(at -1.235559 -0.653823 0)
+			(at 1.419 0.436 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "cae43ffe-75b8-4e5a-82ca-545f1a84155b")
@@ -7439,7 +7439,7 @@
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
 		(property "Reference" "Q845"
-			(at -4.565 0 90)
+			(at 1.12 -4.47 90)
 			(layer "F.SilkS")
 			(uuid "14950f14-3fe1-475b-9675-f3ec777d09cd")
 			(effects
@@ -7871,7 +7871,7 @@
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
 		(property "Reference" "Q842"
-			(at -4.565 -0.085 90)
+			(at 0.665 -4.555 90)
 			(layer "F.SilkS")
 			(uuid "6aa43f88-6c76-446c-9632-d89d819ba9c9")
 			(effects
@@ -11440,7 +11440,7 @@
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
 		(property "Reference" "Q907"
-			(at 0 -4.5 90)
+			(at 0.23 -4.33 90)
 			(layer "F.SilkS")
 			(uuid "09ead8c0-db07-482b-8510-0c395d59d566")
 			(effects
@@ -12737,7 +12737,7 @@
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
 		(property "Reference" "Q843"
-			(at -4.065 -0.39 90)
+			(at 0.0225 -4.6975 90)
 			(layer "F.SilkS")
 			(uuid "f9d54b6a-fd25-41a3-bea5-f4ceddec3da4")
 			(effects
@@ -13169,7 +13169,7 @@
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
 		(property "Reference" "Q846"
-			(at -4.565 0.195 90)
+			(at -5.4175 -8.85 90)
 			(layer "F.SilkS")
 			(uuid "ed00d16f-9ae8-41d3-a586-cca4b0ff68db")
 			(effects
@@ -13599,7 +13599,7 @@
 		(uuid "8131e348-ce1b-4643-b8bc-6a401bfd5648")
 		(at 112.836 43.585 180)
 		(property "Reference" "R842"
-			(at -2 2 180)
+			(at -1.584 -0.545 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "52bcb8b8-2484-40d2-8fca-c68f64e190b1")
@@ -16510,7 +16510,7 @@
 			(size 0.7 0.92)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.1)
-			(net 192 "/INJ8")
+			(net 193 "/INJ7")
 			(pintype "passive")
 			(uuid "072bdf1f-befd-4279-8cc2-87408ab7cf45")
 		)
@@ -17106,7 +17106,7 @@
 		(uuid "9835e2cc-efb4-4d70-83d0-94452e55bbed")
 		(at 112.795 45.43)
 		(property "Reference" "R841"
-			(at -1 2 0)
+			(at 1.775 0.27 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "78189b1c-91fa-4816-acd6-24cccf585188")
@@ -17369,7 +17369,7 @@
 			(size 0.7 0.92)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.1)
-			(net 193 "/INJ7")
+			(net 192 "/INJ8")
 			(pintype "passive")
 			(uuid "1cffc51f-1c28-4d8e-90c4-30a7cb95ca82")
 		)
@@ -20068,7 +20068,7 @@
 		(uuid "d17ed641-6819-4241-83fc-d4e2a33ccee7")
 		(at 58.632 36.7205 90)
 		(property "Reference" "R3"
-			(at -1.235559 -0.653823 0)
+			(at -0.6195 -2.172 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "31a39133-baaa-4956-a49d-cc2532c95f97")
@@ -21161,7 +21161,7 @@
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
 		(property "Reference" "Q849"
-			(at -5.43 -0.05 90)
+			(at 0.88 -4.33 90)
 			(layer "F.SilkS")
 			(uuid "8e6383af-1077-4f1e-8d7e-8e965d8b6bfa")
 			(effects
@@ -22108,7 +22108,7 @@
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
 		(property "Reference" "Q847"
-			(at 0 -4.5 90)
+			(at -5.29 -8.1025 90)
 			(layer "F.SilkS")
 			(uuid "4ec6716c-5ead-4b8e-9433-d257d00223fe")
 			(effects
@@ -22539,7 +22539,7 @@
 		(uuid "e6782cce-ec94-47d1-a1c5-8686c45f9cbb")
 		(at 61.092 33.880428 180)
 		(property "Reference" "R4"
-			(at -1.235559 -0.653823 180)
+			(at -0.988 1.990428 180)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "143edf43-f09f-447a-8507-470c1c000714")
@@ -23481,7 +23481,7 @@
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
 		(property "Reference" "Q844"
-			(at -4.565 -0.195 90)
+			(at -5.085 -8.615 90)
 			(layer "F.SilkS")
 			(uuid "f3c1d7f3-95e7-4ad7-9480-ddb6a9729ef6")
 			(effects
@@ -23913,7 +23913,7 @@
 		(descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R878"
-			(at 0 2.62 90)
+			(at -0.34 -2.97 90)
 			(layer "B.SilkS")
 			(uuid "35e0c3e5-cc07-432d-ae54-412f611dc425")
 			(effects
@@ -24157,7 +24157,7 @@
 		(uuid "133b53fe-6826-4397-9bb3-bead5c88b097")
 		(at 196.65 31.38 180)
 		(property "Reference" "R701"
-			(at -1.235559 0.653823 0)
+			(at 4.37 0.05 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "12c2ce0b-ba47-4e1f-b2a4-701640e78276")
@@ -24310,7 +24310,7 @@
 		(descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R879"
-			(at 0 2.62 90)
+			(at -0.06 -2.99 90)
 			(layer "B.SilkS")
 			(uuid "de071a61-4574-4032-b7bb-e82ec78d7438")
 			(effects
@@ -24554,7 +24554,7 @@
 		(uuid "15f6155d-9fb8-424d-8ec3-ad7a8e66acc7")
 		(at 197.042 72.891 180)
 		(property "Reference" "R868"
-			(at -2 0.5 180)
+			(at 7.272 0.281 180)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "511ef456-5ce2-4d78-bc85-21e9f554624e")
@@ -24705,7 +24705,7 @@
 		(uuid "17d5b735-3df7-410a-90ca-49f908288f22")
 		(at 165.78 43.67 180)
 		(property "Reference" "R905"
-			(at -1.5 -1.64 0)
+			(at -1.74 1.15 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "19fa4e33-5e55-482f-b886-e67b2133603b")
@@ -24858,7 +24858,7 @@
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
 		(property "Reference" "F851"
-			(at 0 1.43 0)
+			(at -5.52 -0.27 0)
 			(layer "B.SilkS")
 			(uuid "9f567542-80e8-4253-a1cb-dbd868740913")
 			(effects
@@ -25256,7 +25256,7 @@
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
 		(property "Reference" "F849"
-			(at 3.5 0 0)
+			(at 6.345 -0.0325 0)
 			(layer "B.SilkS")
 			(uuid "7280fe24-8694-463e-8475-4e726205e548")
 			(effects
@@ -25501,7 +25501,7 @@
 		(uuid "36933b24-7d7c-41a0-ad24-5e8b2bbc0297")
 		(at 197.1525 58.4625 180)
 		(property "Reference" "R869"
-			(at -2 0.5 180)
+			(at 6.9625 0.7225 180)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "1b2c9c91-d428-47aa-b57e-e8dce906e3da")
@@ -26089,7 +26089,7 @@
 		(uuid "5568b40b-7b04-4965-bd0e-05b660e243b7")
 		(at 142.89 71.9 180)
 		(property "Reference" "R900"
-			(at -1.235559 0.653823 0)
+			(at -1.14 0.78 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "cfedf4e7-6456-46e9-accc-6b306ac20867")
@@ -26393,7 +26393,7 @@
 		(uuid "5af40638-972e-4ee3-a16e-3c478f877c17")
 		(at 118.356 74.531928)
 		(property "Reference" "R318"
-			(at -1.235559 0.653823 180)
+			(at -1.316 -3.341928 180)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "7a552ea1-37de-4410-bd00-079e3fc2320c")
@@ -26544,7 +26544,7 @@
 		(uuid "607abb4b-9d57-48c2-9a55-f0c299f84e9b")
 		(at 175.04 45.23 180)
 		(property "Reference" "R700"
-			(at -1.235559 0.653823 0)
+			(at -7.21 -0.52 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "6e1ec06c-9a28-4ec6-ad79-ec7cb8d14df2")
@@ -26695,7 +26695,7 @@
 		(uuid "64e92a3f-a7bb-49be-b840-e61b196984a0")
 		(at 175.22 57.945 180)
 		(property "Reference" "R867"
-			(at -2 0.5 180)
+			(at -4.54 0.725 180)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "1c90ceec-198e-4334-94af-5df6883a9cbb")
@@ -26846,7 +26846,7 @@
 		(uuid "65d5f6f4-8d39-4db7-82b0-62ac09035fed")
 		(at 175.58 31.49 180)
 		(property "Reference" "R873"
-			(at -1.5 0.5 180)
+			(at -4.07 0.46 180)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "37c482c8-4a9c-460e-9edc-4ca3ad750182")
@@ -27139,7 +27139,7 @@
 		(uuid "6ca85a82-be1b-4120-93d3-f78be13c2bda")
 		(at 118.322 73.009)
 		(property "Reference" "R319"
-			(at -1.235559 0.653823 180)
+			(at -1.262 -3.059 180)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "bc0ebf4c-9ec4-4506-b5da-6edec2704de5")
@@ -27290,7 +27290,7 @@
 		(uuid "704ec970-5519-47c3-9e80-cf382079129f")
 		(at 142.36 29.26 180)
 		(property "Reference" "R903"
-			(at -1.235559 0.653823 0)
+			(at -1.37 1.65 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "9fcd6871-5ea7-45ad-adbf-d9eda9680667")
@@ -27441,7 +27441,7 @@
 		(uuid "75ea7668-8569-4f08-91ef-60017325d51f")
 		(at 56.335 21.807928)
 		(property "Reference" "R323"
-			(at -1.235559 0.653823 180)
+			(at -1.505 -3.307928 180)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "909503ed-2d76-4bbf-9a67-bbf58a1b2b4c")
@@ -27594,7 +27594,7 @@
 		(descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R870"
-			(at 0.0375 4 90)
+			(at -0.23 -2.94 90)
 			(layer "B.SilkS")
 			(uuid "4305571c-a702-4bcd-ad62-b40cfcf718bd")
 			(effects
@@ -27991,7 +27991,7 @@
 		(uuid "7c87f593-9fa9-43a4-851e-595ef9a78c9e")
 		(at 143.13 56.43 180)
 		(property "Reference" "R901"
-			(at -1.235559 0.653823 0)
+			(at -1.25 0.82 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "22800a68-3e39-47e4-9902-17d42956c946")
@@ -28144,7 +28144,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D844"
-			(at 0 2 0)
+			(at -0.348 -1.922 0)
 			(layer "B.SilkS")
 			(uuid "3c461c76-b6be-40c5-a1d1-d8cc7d70ba82")
 			(effects
@@ -28379,7 +28379,7 @@
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
 		(property "Reference" "F847"
-			(at 3.5 0 0)
+			(at 5.29 0.2 0)
 			(layer "B.SilkS")
 			(uuid "1ca3188d-3471-424e-8c8b-06f8ac801c51")
 			(effects
@@ -28779,7 +28779,7 @@
 		(descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R876"
-			(at 0 3 90)
+			(at 0.255 -3.185 90)
 			(layer "B.SilkS")
 			(uuid "d1c683cf-5036-4630-9c28-2734999eef91")
 			(effects
@@ -29663,7 +29663,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D842"
-			(at 0 2 0)
+			(at -0.482 -1.717 0)
 			(layer "B.SilkS")
 			(uuid "c280e101-3fc5-478b-a1a6-c27ac744d3d0")
 			(effects
@@ -30131,7 +30131,7 @@
 		(uuid "9f7c74e3-0e0c-4714-923f-2377afefee7e")
 		(at 56.291 24.586928)
 		(property "Reference" "R321"
-			(at -1.235559 0.653823 180)
+			(at -1.531 2.453072 180)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "579a37fc-4ddb-4a9a-ab8b-46363c3c8b99")
@@ -30583,7 +30583,7 @@
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
 		(property "Reference" "F845"
-			(at 3.5 0 0)
+			(at 3.611 -0.266 0)
 			(layer "B.SilkS")
 			(uuid "5db58e99-ad34-420f-91f6-585245b38fa4")
 			(effects
@@ -30830,7 +30830,7 @@
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
 		(property "Reference" "F844"
-			(at 3.5 0 0)
+			(at 6.19 0.175 0)
 			(layer "B.SilkS")
 			(uuid "3819316c-550b-463c-9b7a-91ca50437e96")
 			(effects
@@ -31077,7 +31077,7 @@
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
 		(property "Reference" "F848"
-			(at 3.5 0 0)
+			(at -4.3675 -0.7825 0)
 			(layer "B.SilkS")
 			(uuid "d29cbd2c-6a3f-4975-a89f-9863d5d0f44a")
 			(effects
@@ -31322,7 +31322,7 @@
 		(uuid "b7036fb6-6556-4770-bec1-e933d3462762")
 		(at 142.31 43.54 180)
 		(property "Reference" "R902"
-			(at -1.235559 0.653823 0)
+			(at -1.4 1.19 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "bc204bcf-61e2-45de-bef7-58130afd9d4d")
@@ -31475,7 +31475,7 @@
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
 		(property "Reference" "F850"
-			(at 0 1.43 0)
+			(at 5.55 -0.14 0)
 			(layer "B.SilkS")
 			(uuid "a3dc4fdd-8130-498a-ae49-eac6772d0238")
 			(effects
@@ -31720,7 +31720,7 @@
 		(uuid "c421c0b6-d2c6-422d-bd7e-bd4d57358daf")
 		(at 56.276 25.98)
 		(property "Reference" "R320"
-			(at -1.235559 0.653823 180)
+			(at -1.606 2.23 180)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "d769bf6b-02ca-4af0-8fd0-77ef26963f6a")
@@ -32218,7 +32218,7 @@
 		(uuid "c48ca4e2-3e53-43a3-85d0-605058636418")
 		(at 56.321 23.201)
 		(property "Reference" "R322"
-			(at -1.235559 0.653823 180)
+			(at -1.181 -3.451 180)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "a6aff7c1-cfaf-49fe-bf98-c746dedf87e1")
@@ -32369,7 +32369,7 @@
 		(uuid "cff2ec48-4246-4387-a398-72459fb6ae69")
 		(at 197.115 45.595 180)
 		(property "Reference" "R874"
-			(at -1.5 0.5 180)
+			(at 7.005 0.895 180)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "63b5a9c6-a26f-4c95-b6af-388fb8e68ad5")
@@ -32520,7 +32520,7 @@
 		(uuid "d385f198-9f94-44b9-8b51-cfced4bbde8a")
 		(at 166.1 30.01 180)
 		(property "Reference" "R904"
-			(at -1.235559 0.653823 0)
+			(at -1.62 1.69 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "00c4a4cc-f9c4-4c09-b8df-21e9cb467ba6")
@@ -32815,7 +32815,7 @@
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
 		(property "Reference" "F846"
-			(at 3.5 0 0)
+			(at -5.11 -0.22 0)
 			(layer "B.SilkS")
 			(uuid "686c847e-e6f4-4480-a411-6503ccec348d")
 			(effects
@@ -34138,7 +34138,7 @@
 		(uuid "eb0576e7-6664-463c-b5f8-0219ef9bf6e8")
 		(at 118.322 77.406928)
 		(property "Reference" "R316"
-			(at -1.235559 0.653823 180)
+			(at -1.422 2.243072 180)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "1b0b6635-262f-41db-943c-400039b51c6a")
@@ -34535,7 +34535,7 @@
 		(uuid "f5835473-0fdb-4642-921c-854f075eec4d")
 		(at 118.293 75.962)
 		(property "Reference" "R317"
-			(at -1.235559 0.653823 180)
+			(at -1.413 2.378 180)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "755f0f71-eb78-419d-8f7d-f86e706f5b08")
@@ -35403,7 +35403,7 @@
 		(uuid "fde26f14-392c-442f-922e-e0d6aac4cb87")
 		(at 175.335 74.0125 180)
 		(property "Reference" "R875"
-			(at -1.5 0.5 180)
+			(at -4.135 0.5625 180)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "67124f5c-597d-4a5b-8129-abfa23d24a89")
