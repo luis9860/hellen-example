@@ -2568,7 +2568,7 @@
 		)
 		(uuid "1f485c62-b6d5-474e-b8ce-628c704b961f")
 	)
-	(hierarchical_label "IN7"
+	(hierarchical_label "IN8"
 		(shape input)
 		(at 274.32 147.32 0)
 		(effects
@@ -2590,7 +2590,7 @@
 		)
 		(uuid "31c104e0-7e65-44d7-b9c2-146b5cc4bbbb")
 	)
-	(hierarchical_label "IN8"
+	(hierarchical_label "IN7"
 		(shape input)
 		(at 273.05 152.4 0)
 		(effects

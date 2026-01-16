@@ -8472,6 +8472,12 @@
 		(uuid "2a2c5ab6-9e10-4922-924e-af0a2fec6f26")
 	)
 	(junction
+		(at 241.3 182.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3e46ca8a-0918-41cb-9b1d-75fc216404ad")
+	)
+	(junction
 		(at 410.21 199.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8500,6 +8506,24 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bd82b7d4-0224-4ca4-9d60-fb174d126cbc")
+	)
+	(junction
+		(at 209.55 201.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c7c8caea-253a-4ead-bf65-45e6087889a7")
+	)
+	(junction
+		(at 190.5 260.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d8e0c85d-b1e8-434c-a5ee-780c2c7ce4e8")
+	)
+	(junction
+		(at 237.49 180.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d9b6851c-a09d-4e62-8070-9f4f8baeb34d")
 	)
 	(junction
 		(at 205.74 173.99)
@@ -9912,7 +9936,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 199.39) (xy 209.55 204.47)
+			(xy 209.55 199.39) (xy 209.55 201.93)
 		)
 		(stroke
 			(width 0)
@@ -10716,6 +10740,16 @@
 	)
 	(wire
 		(pts
+			(xy 190.5 260.35) (xy 200.66 260.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e8cb287-43a7-4c19-9489-67f22a630fba")
+	)
+	(wire
+		(pts
 			(xy 252.73 196.85) (xy 279.4 196.85)
 		)
 		(stroke
@@ -10856,7 +10890,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 199.39) (xy 209.55 199.39)
+			(xy 205.74 199.39) (xy 209.55 199.39)
 		)
 		(stroke
 			(width 0)
@@ -11227,6 +11261,16 @@
 			(type default)
 		)
 		(uuid "43886219-727e-4cd3-8bea-a7106f3797da")
+	)
+	(wire
+		(pts
+			(xy 207.01 201.93) (xy 207.01 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43bd223a-2366-4d3c-9c78-f49040180e4d")
 	)
 	(bus
 		(pts
@@ -11644,6 +11688,16 @@
 			(type default)
 		)
 		(uuid "554e81ee-fdca-4f9d-acf1-26fb69a8f602")
+	)
+	(wire
+		(pts
+			(xy 195.58 199.39) (xy 198.12 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55d504d1-7113-44ff-8e5e-d0a1cc709888")
 	)
 	(bus
 		(pts
@@ -12258,7 +12312,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 182.88) (xy 259.08 182.88)
+			(xy 234.95 182.88) (xy 241.3 182.88)
 		)
 		(stroke
 			(width 0)
@@ -12554,7 +12608,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 260.35) (xy 200.66 260.35)
+			(xy 186.69 260.35) (xy 190.5 260.35)
 		)
 		(stroke
 			(width 0)
@@ -13294,7 +13348,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 180.34) (xy 259.08 180.34)
+			(xy 234.95 180.34) (xy 237.49 180.34)
 		)
 		(stroke
 			(width 0)
@@ -13626,6 +13680,16 @@
 			(type default)
 		)
 		(uuid "a480c272-5c09-4b90-aae5-6cfcf3698769")
+	)
+	(wire
+		(pts
+			(xy 237.49 180.34) (xy 259.08 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4a89990-019c-4e17-ae4d-c982d37fdd1a")
 	)
 	(bus
 		(pts
@@ -14392,6 +14456,16 @@
 			(type default)
 		)
 		(uuid "c570c091-e0ba-4de7-8824-773c4eea7272")
+	)
+	(wire
+		(pts
+			(xy 207.01 204.47) (xy 209.55 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c57d4267-f6f2-48b6-a690-192128dd4e10")
 	)
 	(bus
 		(pts
@@ -15347,6 +15421,16 @@
 	)
 	(wire
 		(pts
+			(xy 207.01 201.93) (xy 209.55 201.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1b51c5d-0cd6-4f4a-b64a-5e83ece04981")
+	)
+	(wire
+		(pts
 			(xy 218.44 179.07) (xy 227.33 179.07)
 		)
 		(stroke
@@ -15354,6 +15438,16 @@
 			(type default)
 		)
 		(uuid "f2ee2c88-261f-43bb-ab74-cb31eac46719")
+	)
+	(wire
+		(pts
+			(xy 241.3 182.88) (xy 259.08 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2fa2b07-b684-49ff-a451-bff5239ab752")
 	)
 	(wire
 		(pts
@@ -23863,7 +23957,7 @@
 	)
 	(symbol
 		(lib_id "hellen-one-common:Fuse-Pad-Pad")
-		(at 203.2 199.39 0)
+		(at 200.66 199.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23871,7 +23965,7 @@
 		(dnp no)
 		(uuid "2c789cb1-2167-405a-9d76-b0c97b15a229")
 		(property "Reference" "F843"
-			(at 198.12 198.12 0)
+			(at 195.58 198.12 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -23879,7 +23973,7 @@
 			)
 		)
 		(property "Value" "12H1500D"
-			(at 210.2892 198.2813 0)
+			(at 207.7492 198.2813 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -23887,7 +23981,7 @@
 			)
 		)
 		(property "Footprint" "hellen-one-common:PAD-1206-PAD"
-			(at 203.2 203.2 0)
+			(at 200.66 203.2 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -23896,7 +23990,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 199.39 0)
+			(at 200.66 199.39 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -23905,7 +23999,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 203.2 199.39 0)
+			(at 200.66 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23914,7 +24008,7 @@
 			)
 		)
 		(property "LCSC" "C182446"
-			(at 203.2 203.2 0)
+			(at 200.66 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23923,7 +24017,7 @@
 			)
 		)
 		(property "comentario" ""
-			(at 203.2 199.39 0)
+			(at 200.66 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
