@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/hellen-example/hellen-example/greenenergyecu.kicad_sch</source>
-    <date>2026-01-14T01:45:30+0000</date>
+    <date>2026-01-16T14:55:31+0000</date>
     <tool>Eeschema 8.0.9-8.0.9-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -3375,13 +3375,13 @@
     </net>
     <net code="32" name="/INJ7">
       <node ref="M6" pin="E11" pinfunction="OUT_INJ7_(PD15)" pintype="passive"/>
-      <node ref="M9" pin="V2" pinfunction="IGN7" pintype="passive"/>
-      <node ref="R325" pin="1" pintype="passive"/>
+      <node ref="M9" pin="V1" pinfunction="IGN8" pintype="passive"/>
+      <node ref="R327" pin="1" pintype="passive"/>
     </net>
     <net code="33" name="/INJ8">
       <node ref="M6" pin="E10" pinfunction="OUT_INJ8_(PD12)" pintype="passive"/>
-      <node ref="M9" pin="V1" pinfunction="IGN8" pintype="passive"/>
-      <node ref="R327" pin="1" pintype="passive"/>
+      <node ref="M9" pin="V2" pinfunction="IGN7" pintype="passive"/>
+      <node ref="R325" pin="1" pintype="passive"/>
     </net>
     <net code="34" name="/INTERNAL_MAP">
       <node ref="M6" pin="S12" pinfunction="IN_MAP2_(PC1)" pintype="passive"/>
@@ -3687,6 +3687,7 @@
     </net>
     <net code="92" name="Net-(F843-Pad2)">
       <node ref="F843" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="M8" pin="N2" pinfunction="12V_IN" pintype="passive"/>
       <node ref="M8" pin="S1" pinfunction="12V_IN" pintype="passive"/>
     </net>
     <net code="93" name="Net-(F844-Pad1)">
@@ -3889,10 +3890,12 @@
       <node ref="U846" pin="2" pinfunction="T-" pintype="passive"/>
     </net>
     <net code="139" name="OUT_DC1+">
+      <node ref="M8" pin="S3" pinfunction="OUT+" pintype="passive"/>
       <node ref="P1" pin="90" pinfunction="90" pintype="passive"/>
       <node ref="P1" pin="91" pinfunction="91" pintype="passive"/>
     </net>
     <net code="140" name="OUT_DC1-">
+      <node ref="M8" pin="S2" pinfunction="OUT-" pintype="passive"/>
       <node ref="P1" pin="82" pinfunction="82" pintype="passive"/>
       <node ref="P1" pin="83" pinfunction="83" pintype="passive"/>
     </net>
@@ -4040,6 +4043,7 @@
     <net code="173" name="VR_MAX9924-">
       <node ref="M4" pin="W1" pinfunction="VR-" pintype="passive"/>
       <node ref="P1" pin="28" pinfunction="28" pintype="passive"/>
+      <node ref="R843" pin="2" pintype="passive"/>
     </net>
     <net code="174" name="unconnected-(G1-Pad1)">
       <node ref="G1" pin="1" pintype="passive"/>
@@ -4494,52 +4498,40 @@
     <net code="324" name="unconnected-(M6-nReset-PadN7)">
       <node ref="M6" pin="N7" pinfunction="nReset" pintype="passive+no_connect"/>
     </net>
-    <net code="325" name="unconnected-(M8-12V_IN-PadN2)">
-      <node ref="M8" pin="N2" pinfunction="12V_IN" pintype="passive"/>
-    </net>
-    <net code="326" name="unconnected-(M8-MISO-PadW6)">
+    <net code="325" name="unconnected-(M8-MISO-PadW6)">
       <node ref="M8" pin="W6" pinfunction="MISO" pintype="passive"/>
     </net>
-    <net code="327" name="unconnected-(M8-MOSI-PadN1)">
+    <net code="326" name="unconnected-(M8-MOSI-PadN1)">
       <node ref="M8" pin="N1" pinfunction="MOSI" pintype="passive"/>
     </net>
-    <net code="328" name="unconnected-(M8-OUT+-PadS3)">
-      <node ref="M8" pin="S3" pinfunction="OUT+" pintype="passive"/>
-    </net>
-    <net code="329" name="unconnected-(M8-OUT--PadS2)">
-      <node ref="M8" pin="S2" pinfunction="OUT-" pintype="passive"/>
-    </net>
-    <net code="330" name="unconnected-(M8-SCLK-PadW3)">
+    <net code="327" name="unconnected-(M8-SCLK-PadW3)">
       <node ref="M8" pin="W3" pinfunction="SCLK" pintype="passive"/>
     </net>
-    <net code="331" name="unconnected-(M8-~CS-PadW7)">
+    <net code="328" name="unconnected-(M8-~CS-PadW7)">
       <node ref="M8" pin="W7" pinfunction="~CS" pintype="passive"/>
     </net>
-    <net code="332" name="unconnected-(P1-Pad24)">
+    <net code="329" name="unconnected-(P1-Pad24)">
       <node ref="P1" pin="24" pinfunction="24" pintype="passive"/>
     </net>
-    <net code="333" name="unconnected-(P1-Pad42)">
+    <net code="330" name="unconnected-(P1-Pad42)">
       <node ref="P1" pin="42" pinfunction="42" pintype="passive"/>
     </net>
-    <net code="334" name="unconnected-(P1-Pad43)">
+    <net code="331" name="unconnected-(P1-Pad43)">
       <node ref="P1" pin="43" pinfunction="43" pintype="passive"/>
     </net>
-    <net code="335" name="unconnected-(R843-Pad2)">
-      <node ref="R843" pin="2" pintype="passive"/>
-    </net>
-    <net code="336" name="unconnected-(U842-STATUS1-Pad2)">
+    <net code="332" name="unconnected-(U842-STATUS1-Pad2)">
       <node ref="U842" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
     </net>
-    <net code="337" name="unconnected-(U842-STATUS2-Pad4)">
+    <net code="333" name="unconnected-(U842-STATUS2-Pad4)">
       <node ref="U842" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
     </net>
-    <net code="338" name="unconnected-(U843-STATUS1-Pad2)">
+    <net code="334" name="unconnected-(U843-STATUS1-Pad2)">
       <node ref="U843" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
     </net>
-    <net code="339" name="unconnected-(U843-STATUS2-Pad4)">
+    <net code="335" name="unconnected-(U843-STATUS2-Pad4)">
       <node ref="U843" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
     </net>
-    <net code="340" name="unconnected-(U846-NC-Pad8)">
+    <net code="336" name="unconnected-(U846-NC-Pad8)">
       <node ref="U846" pin="8" pinfunction="NC" pintype="no_connect"/>
     </net>
   </nets>
