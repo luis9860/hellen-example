@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/hellen-example/hellen-example/greenenergyecu.kicad_sch</source>
-    <date>2026-01-16T17:18:36+0000</date>
+    <date>2026-01-17T20:14:18+0000</date>
     <tool>Eeschema 8.0.9-8.0.9-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1675,16 +1675,16 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">DNP</field>
+        <field name="LCSC">C903784</field>
+        <field name="MyComment"/>
         <field name="comentario"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="DNP"/>
+      <property name="LCSC" value="C903784"/>
+      <property name="MyComment" value=""/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="LSH"/>
       <property name="Sheetfile" value="LS_H.kicad_sch"/>
@@ -1841,16 +1841,16 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">DNP</field>
+        <field name="LCSC">C903784</field>
+        <field name="MyComment"/>
         <field name="comentario"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="DNP"/>
+      <property name="LCSC" value="C903784"/>
+      <property name="MyComment" value=""/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
@@ -1862,16 +1862,16 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">DNP</field>
+        <field name="LCSC">C903784</field>
+        <field name="MyComment"/>
         <field name="comentario"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="DNP"/>
+      <property name="LCSC" value="C903784"/>
+      <property name="MyComment" value=""/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
@@ -1883,16 +1883,16 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">DNP</field>
+        <field name="LCSC">C903784</field>
+        <field name="MyComment"/>
         <field name="comentario"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="DNP"/>
+      <property name="LCSC" value="C903784"/>
+      <property name="MyComment" value=""/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
@@ -1904,16 +1904,16 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">DNP</field>
+        <field name="LCSC">C903784</field>
+        <field name="MyComment"/>
         <field name="comentario"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="DNP"/>
+      <property name="LCSC" value="C903784"/>
+      <property name="MyComment" value=""/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
@@ -1925,16 +1925,16 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">DNP</field>
+        <field name="LCSC">C903784</field>
+        <field name="MyComment"/>
         <field name="comentario"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="DNP"/>
+      <property name="LCSC" value="C903784"/>
+      <property name="MyComment" value=""/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
@@ -1946,16 +1946,16 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">DNP</field>
+        <field name="LCSC">C903784</field>
+        <field name="MyComment"/>
         <field name="comentario"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="DNP"/>
+      <property name="LCSC" value="C903784"/>
+      <property name="MyComment" value=""/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
@@ -1967,16 +1967,16 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">DNP</field>
+        <field name="LCSC">C903784</field>
+        <field name="MyComment"/>
         <field name="comentario"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="DNP"/>
+      <property name="LCSC" value="C903784"/>
+      <property name="MyComment" value=""/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
@@ -1988,16 +1988,16 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC"/>
-        <field name="MyComment">DNP</field>
+        <field name="LCSC">C903784</field>
+        <field name="MyComment"/>
         <field name="comentario"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value=""/>
-      <property name="MyComment" value="DNP"/>
+      <property name="LCSC" value="C903784"/>
+      <property name="MyComment" value=""/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
       <property name="Sheetfile" value="INJ6.kicad_sch"/>
@@ -3343,86 +3343,86 @@
       <node ref="F851" pin="2" pintype="passive"/>
       <node ref="M6" pin="W3" pinfunction="IGN8_(PE6)" pintype="passive"/>
     </net>
-    <net code="26" name="/INJ1">
+    <net code="28" name="/INJ1">
       <node ref="M6" pin="E17" pinfunction="OUT_INJ1_(PD3)" pintype="passive"/>
       <node ref="M9" pin="V8" pinfunction="IGN1" pintype="passive"/>
       <node ref="R305" pin="1" pintype="passive"/>
     </net>
-    <net code="27" name="/INJ2">
+    <net code="29" name="/INJ2">
       <node ref="M6" pin="E16" pinfunction="OUT_INJ2_(PA9)" pintype="passive"/>
       <node ref="M9" pin="V7" pinfunction="IGN2" pintype="passive"/>
       <node ref="R307" pin="1" pintype="passive"/>
     </net>
-    <net code="28" name="/INJ3">
+    <net code="30" name="/INJ3">
       <node ref="M6" pin="E15" pinfunction="OUT_INJ3_(PD11)" pintype="passive"/>
       <node ref="M9" pin="V6" pinfunction="IGN3" pintype="passive"/>
       <node ref="R309" pin="1" pintype="passive"/>
     </net>
-    <net code="29" name="/INJ4">
+    <net code="31" name="/INJ4">
       <node ref="M6" pin="E14" pinfunction="OUT_INJ4_(PD10)" pintype="passive"/>
       <node ref="M9" pin="V5" pinfunction="IGN4" pintype="passive"/>
       <node ref="R311" pin="1" pintype="passive"/>
     </net>
-    <net code="30" name="/INJ5">
+    <net code="32" name="/INJ5">
       <node ref="M6" pin="E13" pinfunction="OUT_INJ5_(PD2)" pintype="passive"/>
       <node ref="M9" pin="V4" pinfunction="IGN5" pintype="passive"/>
       <node ref="R313" pin="1" pintype="passive"/>
     </net>
-    <net code="31" name="/INJ6">
+    <net code="33" name="/INJ6">
       <node ref="M6" pin="E12" pinfunction="OUT_INJ6_(PA8)" pintype="passive"/>
       <node ref="M9" pin="V3" pinfunction="IGN6" pintype="passive"/>
       <node ref="R315" pin="1" pintype="passive"/>
     </net>
-    <net code="32" name="/INJ7">
+    <net code="34" name="/INJ7">
       <node ref="M6" pin="E11" pinfunction="OUT_INJ7_(PD15)" pintype="passive"/>
       <node ref="M9" pin="V1" pinfunction="IGN8" pintype="passive"/>
       <node ref="R327" pin="1" pintype="passive"/>
     </net>
-    <net code="33" name="/INJ8">
+    <net code="35" name="/INJ8">
       <node ref="M6" pin="E10" pinfunction="OUT_INJ8_(PD12)" pintype="passive"/>
       <node ref="M9" pin="V2" pinfunction="IGN7" pintype="passive"/>
       <node ref="R325" pin="1" pintype="passive"/>
     </net>
-    <net code="34" name="/INTERNAL_MAP">
+    <net code="36" name="/INTERNAL_MAP">
       <node ref="M6" pin="S12" pinfunction="IN_MAP2_(PC1)" pintype="passive"/>
       <node ref="P1" pin="20" pinfunction="20" pintype="passive"/>
     </net>
-    <net code="35" name="/IN_KNOCK">
+    <net code="37" name="/IN_KNOCK">
       <node ref="M2" pin="E3" pinfunction="OUT_KNOCK" pintype="passive"/>
       <node ref="R847" pin="1" pintype="passive"/>
     </net>
-    <net code="36" name="/IN_MAP">
+    <net code="38" name="/IN_MAP">
       <node ref="M6" pin="S13" pinfunction="IN_MAP1_(PC0)" pintype="passive"/>
       <node ref="P1" pin="39" pinfunction="39" pintype="passive"/>
     </net>
-    <net code="37" name="/IN_VIGN">
+    <net code="39" name="/IN_VIGN">
       <node ref="F842" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="M1" pin="V2" pinfunction="IN_VIGN" pintype="passive"/>
     </net>
-    <net code="38" name="/IN_VMAIN">
+    <net code="40" name="/IN_VMAIN">
       <node ref="M6" pin="S6" pinfunction="IN_AUX4_(PC5)" pintype="passive"/>
       <node ref="R841" pin="1" pintype="passive"/>
       <node ref="R842" pin="2" pintype="passive"/>
     </net>
-    <net code="39" name="/LS/IN4">
+    <net code="41" name="/LS/IN4">
       <node ref="R322" pin="1" pintype="passive"/>
       <node ref="R323" pin="1" pintype="passive"/>
     </net>
-    <net code="40" name="/LS2">
+    <net code="42" name="/LS2">
       <node ref="M6" pin="E19" pinfunction="OUT_PWM2_(PC6)" pintype="passive"/>
       <node ref="R318" pin="1" pintype="passive"/>
       <node ref="R319" pin="1" pintype="passive"/>
     </net>
-    <net code="41" name="/LS3">
+    <net code="43" name="/LS3">
       <node ref="M6" pin="E18" pinfunction="OUT_PWM1_(PD13)" pintype="passive"/>
       <node ref="R320" pin="1" pintype="passive"/>
       <node ref="R321" pin="1" pintype="passive"/>
     </net>
-    <net code="46" name="/LSH/OUT2">
+    <net code="45" name="/LSH/OUT2">
       <node ref="P1" pin="13" pinfunction="13" pintype="passive"/>
       <node ref="Q3" pin="2" pinfunction="C" pintype="passive"/>
     </net>
-    <net code="48" name="/MISO3">
+    <net code="46" name="/MISO3">
       <node ref="M6" pin="N11" pinfunction="SPI3_MISO_(PC11)" pintype="passive"/>
       <node ref="U846" pin="7" pinfunction="SO" pintype="tri_state"/>
     </net>
