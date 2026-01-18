@@ -1,4 +1,4 @@
-### Footprint positions - created on 2026-01-17T23:35:33-0500 ###
+### Footprint positions - created on 2026-01-18T08:55:17-0500 ###
 ### Printed by KiCad version 8.0.8
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -93,7 +93,7 @@ M6        Module:mega-mcu100/0.3    mega-mcu100                 41.1800    67.79
 M7        Module-can-0.1            can                         74.5770    54.7270    0.0000  top
 M8        Module-motor-driver-0.1   motor-driver                73.2050    43.4500    0.0000  top
 M9        Module-ign8-0.2           ign8                        95.0134    85.2300   90.0000  top
-P1        368255-2                  368255-2                    82.0000    11.4850    0.0000  top
+P1        368255-2                  368255-2                    82.0000     6.4850    0.0000  top
 Q1        AO3400A                   SOT-23                      15.4170    73.4785  -90.0000  top
 Q3        ISL9V3040D3ST             TO-252-2                    30.2490    33.0100   90.0000  top
 Q841      ISL9V3040D3ST             TO-252-2                   129.7400    48.3650  -90.0000  top
