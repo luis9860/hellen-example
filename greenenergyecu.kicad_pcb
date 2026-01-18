@@ -1640,21 +1640,22 @@
 		)
 		(dimension
 			(type aligned)
-			(layer "F.SilkS")
+			(layer "B.SilkS")
 			(uuid "7515959b-247e-4800-93c3-e95c71d09298")
 			(pts
-				(xy 199.7 86.38) (xy 199.7 98.88)
+				(xy 199.7 86.38) (xy 199.7 73.88)
 			)
-			(height 150.5)
+			(height -150.5)
 			(gr_text "12.5000 mm"
-				(at 48.1 92.63 90)
-				(layer "F.SilkS")
+				(at 48.1 80.13 90)
+				(layer "B.SilkS")
 				(uuid "7515959b-247e-4800-93c3-e95c71d09298")
 				(effects
 					(font
 						(size 1 1)
 						(thickness 0.1)
 					)
+					(justify mirror)
 				)
 			)
 			(format
@@ -1673,21 +1674,22 @@
 		)
 		(dimension
 			(type aligned)
-			(layer "F.SilkS")
+			(layer "B.SilkS")
 			(uuid "8bd96265-8851-47b9-8c3d-9c3600164c83")
 			(pts
 				(xy 55.7 86.38) (xy 127.7 86.38)
 			)
-			(height 30.01)
+			(height -30.01)
 			(gr_text "72.0000 mm"
-				(at 91.7 115.29 0)
-				(layer "F.SilkS")
+				(at 91.7 55.27 0)
+				(layer "B.SilkS")
 				(uuid "8bd96265-8851-47b9-8c3d-9c3600164c83")
 				(effects
 					(font
 						(size 1 1)
 						(thickness 0.1)
 					)
+					(justify mirror)
 				)
 			)
 			(format
@@ -3077,7 +3079,7 @@
 		)
 		(model "footprints/TE_368255-2.wrl"
 			(offset
-				(xyz -72 10 -5)
+				(xyz -72 11.5 -5)
 			)
 			(scale
 				(xyz 10 10 10)
