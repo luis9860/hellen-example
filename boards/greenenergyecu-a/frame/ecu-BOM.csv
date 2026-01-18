@@ -50,7 +50,7 @@ Comment,Designator,Footprint,LCSC Part #
 "Module:can/0.1","M7","can",""
 "Module:motor-driver/0.1","M8","motor-driver",""
 "Module:ign8/0.2","M9","ign8",""
-"368255-2","P1","368255-2",""
+"368255-2","P1","368255-2","C392284"
 "AO3400A","Q1","SOT-23",""
 "ISL9V3040D3ST","Q3","DPAK","C903784"
 "ISL9V3040D3ST","Q841","DPAK",""
