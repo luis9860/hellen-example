@@ -21721,6 +21721,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C392284"
+			(at 27.94 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a45d1c3-d03e-4cdd-a7f5-25b64199e289")
 		)
@@ -22146,6 +22155,15 @@
 			)
 		)
 		(property "comentario" ""
+			(at 27.94 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C392284"
 			(at 27.94 356.87 0)
 			(effects
 				(font
