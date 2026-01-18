@@ -3079,7 +3079,7 @@
 		)
 		(model "footprints/TE_368255-2.wrl"
 			(offset
-				(xyz -72 11.5 -5)
+				(xyz -72 10 -5)
 			)
 			(scale
 				(xyz 10 10 10)
