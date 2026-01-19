@@ -35153,6 +35153,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C52028"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "560a788c-ecfc-4ad2-94a6-51009482c576")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm*")
 		(path "/6cde32b6-05f2-499d-9aff-ad44aab97055/290cdeb6-25b5-4be1-a243-22f40104db45")
 		(sheetname "EGT")
