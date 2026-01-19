@@ -3011,7 +3011,7 @@
 		)
 		(model "footprints/TE_368255-2.wrl"
 			(offset
-				(xyz -72 11.5 -5)
+				(xyz -72 8.5 -5)
 			)
 			(scale
 				(xyz 10 10 10)
@@ -4004,7 +4004,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C903784"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4017,7 +4017,7 @@
 				)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7502,7 +7502,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C903784"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7515,7 +7515,7 @@
 				)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7934,7 +7934,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C903784"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7947,7 +7947,7 @@
 				)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12800,7 +12800,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C903784"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12813,7 +12813,7 @@
 				)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13232,7 +13232,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C903784"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13245,7 +13245,7 @@
 				)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21224,7 +21224,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C903784"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21237,7 +21237,7 @@
 				)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22171,7 +22171,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C903784"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22184,7 +22184,7 @@
 				)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23544,7 +23544,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C903784"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23557,7 +23557,7 @@
 				)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23984,7 +23984,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C25469"
+		(property "LCSC" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23998,7 +23998,7 @@
 				(justify mirror)
 			)
 		)
-		(property "comentario" ""
+		(property "comentario" "DNP"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -24381,7 +24381,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C25469"
+		(property "LCSC" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -24395,7 +24395,7 @@
 				(justify mirror)
 			)
 		)
-		(property "comentario" ""
+		(property "comentario" "DNP"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -27665,7 +27665,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C25469"
+		(property "LCSC" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -27679,7 +27679,7 @@
 				(justify mirror)
 			)
 		)
-		(property "comentario" ""
+		(property "comentario" "DNP"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -28850,7 +28850,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C25469"
+		(property "LCSC" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -28864,7 +28864,7 @@
 				(justify mirror)
 			)
 		)
-		(property "comentario" ""
+		(property "comentario" "DNP"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29346,7 +29346,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C25469"
+		(property "LCSC" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29360,12 +29360,12 @@
 				(justify mirror)
 			)
 		)
-		(property "comentario" ""
-			(at 0 0 90)
+		(property "MyComment" "DNP"
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "6ea66280-a66d-48b4-accd-1bf2e294934a")
+			(uuid "214c1b9b-10cc-4998-9a63-7624c165c9f6")
 			(effects
 				(font
 					(size 1 1)
@@ -33618,7 +33618,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C25469"
+		(property "LCSC" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33632,7 +33632,7 @@
 				(justify mirror)
 			)
 		)
-		(property "comentario" ""
+		(property "comentario" "DNP"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34362,7 +34362,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C25469"
+		(property "LCSC" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34376,7 +34376,7 @@
 				(justify mirror)
 			)
 		)
-		(property "comentario" ""
+		(property "comentario" "DNP"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34759,7 +34759,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C25469"
+		(property "LCSC" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34773,7 +34773,7 @@
 				(justify mirror)
 			)
 		)
-		(property "comentario" ""
+		(property "comentario" "DNP"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
