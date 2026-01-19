@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/hellen-example/hellen-example/greenenergyecu.kicad_sch</source>
-    <date>2026-01-19T03:30:22+0000</date>
+    <date>2026-01-19T03:54:19+0000</date>
     <tool>Eeschema 8.0.9-8.0.9-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -2452,11 +2452,13 @@
       <datasheet>http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf</datasheet>
       <description>Cold Junction K-type Thermocouple Interface, SPI, SOIC-8</description>
       <fields>
+        <field name="LCSC">C52028</field>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
         <field name="Datasheet">http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf</field>
         <field name="Description">Cold Junction K-type Thermocouple Interface, SPI, SOIC-8</field>
       </fields>
       <libsource lib="Sensor_Temperature" part="MAX31855KASA" description="Cold Junction K-type Thermocouple Interface, SPI, SOIC-8"/>
+      <property name="LCSC" value="C52028"/>
       <property name="Sheetname" value="EGT"/>
       <property name="Sheetfile" value="egt.kicad_sch"/>
       <property name="ki_keywords" value="Maxim"/>
