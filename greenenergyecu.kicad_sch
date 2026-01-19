@@ -24645,7 +24645,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C2682228"
 			(at 394.97 302.26 0)
 			(effects
 				(font
@@ -24654,7 +24654,7 @@
 				(hide yes)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" ""
 			(at 400.05 311.785 0)
 			(effects
 				(font
