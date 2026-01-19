@@ -553,7 +553,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C2682228"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -565,7 +565,7 @@
 				)
 			)
 		)
-		(property "MyComment" "DNP"
+		(property "MyComment" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
