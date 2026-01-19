@@ -1,7 +1,7 @@
+* Warning! Footprint mismatch for the part #C462128: DPAK != TO-252-2MODD
 * Warning! Footprint mismatch for the part #C17414: R0805 != R0603
 * Warning! Footprint mismatch for the part #C17414: R0603 != R0805
 * Warning! Footprint mismatch for the part #C38695: SO-8_3.9x4.9mm_P1.27mm != SO8
-* Warning! Identical parts Q841,Q842,Q843,Q844,Q845,Q846,Q847,Q849 and Q3 (ISL9V3040D3ST_DPAK) have different partnumbers: C462128 and C903784
 * Warning! Identical parts Q900,Q901,Q902,Q903,Q904,Q905,Q906,Q907 and Q3 (ISL9V3040D3ST_DPAK) have different partnumbers: C5350881 and C903784
 * Warning! Identical parts C753,C754,C759,C601,C602,C605,C608,C612,C613,C614,C615,C617,C618,C100,C101,C105,C108,C111,C112,C113,C119,C120,C122,C124,C126,C127,C130,C134,C147,C180,C185,C190,C195,C220,C221,C222 and C411,C413,C420,C470 (100n_C0402) have different partnumbers: C1525 and C307331
 * Warning! Identical parts C123,C133 and C5 (1u_C0603) have different partnumbers: C519560 and C15849
