@@ -38,7 +38,7 @@
 "PROTO_AREA","G14","footprints:PROTO_AREA1X1",""
 "PROTO_AREA","G15","footprints:PROTO_AREA1X1",""
 "PROTO_AREA","G16","footprints:PROTO_AREA1X1",""
-"USB_B_Mini","J22","hellen-one-common:USB-MINI-B-VERTICAL",""
+"USB_B_Mini","J22","hellen-one-common:USB-MINI-B-VERTICAL","C2682228"
 "470R@100MHz","L841","Inductor_SMD:L_0603_1608Metric","C97853"
 "470R@100MHz","L842","Inductor_SMD:L_0603_1608Metric","C97853"
 "Module-power_12and5V-0.3","M1","hellen-one-power_12and5V-0.3:power_12and5V",""
