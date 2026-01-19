@@ -389,345 +389,6 @@
 				)
 			)
 		)
-		(symbol "PROTO_AREA_1"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "G5"
-				(at 1.27 3.81 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "PROTO_AREA"
-				(at 18.4943 4.4518 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "hellen-one-common:PROTO_AREA"
-				(at 15.24 -11.43 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at -12.7 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "PROTO_AREA_1_0_0"
-				(text ""
-					(at 35.56 6.35 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(symbol "PROTO_AREA_1_0_1"
-				(rectangle
-					(start 0 2.54)
-					(end 20.32 -10.16)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 5.08 -7.62)
-					(radius 1.27)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 5.08 -3.81)
-					(radius 1.27)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 5.08 0)
-					(radius 1.27)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 11.43 -7.62)
-					(radius 1.27)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 11.43 -3.81)
-					(radius 1.27)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 11.43 0)
-					(radius 1.27)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 17.78 -7.62)
-					(radius 1.27)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 17.78 -3.81)
-					(radius 1.27)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 17.78 0)
-					(radius 1.27)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "PROTO_AREA_1_1_1"
-				(pin passive line
-					(at 1.27 -7.62 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 1.27 -3.81 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 1.27 0 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 -7.62 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 -3.81 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 0 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 13.97 -7.62 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 13.97 -3.81 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 13.97 0 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "hellen-one-common:Res"
 			(pin_numbers hide)
 			(exclude_from_sim no)
@@ -956,12 +617,6 @@
 		(uuid "26d8fe3c-d788-487f-89c4-6f8a6f83f834")
 	)
 	(junction
-		(at 74.93 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4062b7e0-00f5-48bd-bc33-a65f802be3f1")
-	)
-	(junction
 		(at 177.8 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -978,12 +633,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "593c96f5-5010-445c-9b81-deef2a36727f")
-	)
-	(junction
-		(at 73.66 115.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5d6b77eb-81b8-405c-8535-b86daf787b41")
 	)
 	(junction
 		(at 160.02 62.23)
@@ -1004,22 +653,16 @@
 		(uuid "7ab12d8a-8ba9-4e0b-afcf-47850509f6f3")
 	)
 	(junction
-		(at 73.66 119.38)
+		(at 179.07 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "85d53ce4-5da6-490c-b5d8-53063935c28f")
+		(uuid "c2f2436c-45c1-4c3f-aac3-546ddd4a8880")
 	)
 	(junction
 		(at 132.08 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9e06c14d-88f3-48c6-9aec-e6cdd21cd1a3")
-	)
-	(junction
-		(at 179.07 154.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c2f2436c-45c1-4c3f-aac3-546ddd4a8880")
+		(uuid "cab000af-728d-421a-9832-e00ea8c60b62")
 	)
 	(junction
 		(at 113.03 62.23)
@@ -1032,12 +675,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dfb637ed-e7ab-4c8b-8f92-f3d44216b7f0")
-	)
-	(junction
-		(at 74.93 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e4dc50d1-6b3a-465a-886d-9ea63c5dc2a3")
 	)
 	(junction
 		(at 130.81 95.25)
@@ -1323,26 +960,6 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 119.38) (xy 73.66 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "807b386e-7948-40e5-84f3-2e57a0f8f39b")
-	)
-	(wire
-		(pts
-			(xy 74.93 147.32) (xy 74.93 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80b2ab19-aad7-4400-ac3c-06711f80f970")
-	)
-	(wire
-		(pts
 			(xy 177.8 62.23) (xy 177.8 67.31)
 		)
 		(stroke
@@ -1363,6 +980,16 @@
 	)
 	(wire
 		(pts
+			(xy 132.08 149.86) (xy 132.08 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86e0670c-9fff-47b0-a959-c5941a1ce484")
+	)
+	(wire
+		(pts
 			(xy 107.95 62.23) (xy 113.03 62.23)
 		)
 		(stroke
@@ -1370,26 +997,6 @@
 			(type default)
 		)
 		(uuid "8876c128-402f-4f57-870e-439e14bd6861")
-	)
-	(wire
-		(pts
-			(xy 81.28 88.9) (xy 81.28 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d9827c0-b082-448c-9052-af4e1fc2adfb")
-	)
-	(wire
-		(pts
-			(xy 73.66 115.57) (xy 73.66 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ec833b4-320e-4407-81c0-b6ef983fe552")
 	)
 	(wire
 		(pts
@@ -1553,16 +1160,6 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 151.13) (xy 74.93 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4b5a6f5-f7bc-439f-a62e-da4245d7423f")
-	)
-	(wire
-		(pts
 			(xy 160.02 72.39) (xy 160.02 78.74)
 		)
 		(stroke
@@ -1600,26 +1197,6 @@
 			(type default)
 		)
 		(uuid "cb222b53-0e99-400f-8ec5-24c97a72c968")
-	)
-	(wire
-		(pts
-			(xy 113.03 88.9) (xy 81.28 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cdc3cbb1-16ab-4dbf-8535-aacccdea553c")
-	)
-	(wire
-		(pts
-			(xy 132.08 149.86) (xy 132.08 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d53d600e-eb70-4257-8624-e166f841c92d")
 	)
 	(wire
 		(pts
@@ -2460,97 +2037,6 @@
 		)
 	)
 	(symbol
-		(lib_name "PROTO_AREA_1")
-		(lib_id "hellen-one-common:PROTO_AREA")
-		(at 68.58 53.34 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "30f29f3d-6d70-44fa-b04f-e3ffebdf6665")
-		(property "Reference" "G2"
-			(at 69.85 49.53 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PROTO_AREA"
-			(at 90.932 57.658 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "footprints:PROTO_AREA1X1"
-			(at 83.82 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 55.88 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 68.58 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0b4c4ba8-f38b-4eef-a175-017e9a318fd6")
-		)
-		(pin "1"
-			(uuid "b89c5a10-0ce4-43aa-a135-a1f0716ba6fd")
-		)
-		(pin "1"
-			(uuid "335dd7dd-0b35-4c07-a340-da08877de024")
-		)
-		(pin "1"
-			(uuid "4a380d36-8273-4756-9892-db6f7cf51a9b")
-		)
-		(pin "1"
-			(uuid "16edd0d2-b5a4-4f65-acfd-0e6b3f66a455")
-		)
-		(pin "1"
-			(uuid "10dfcb12-e0a2-4c20-8434-204354c3c841")
-		)
-		(pin "1"
-			(uuid "36fac590-c042-46ae-b768-6a97b7de09b3")
-		)
-		(pin "1"
-			(uuid "0adf059f-43ad-453e-a2bf-dbe1cb7d2c49")
-		)
-		(pin "1"
-			(uuid "58ef9bbe-ed10-483e-ac8c-bd8291927cae")
-		)
-		(instances
-			(project "greenenergyecu"
-				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf"
-					(reference "G2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "hellen-one-common:Res")
 		(at 130.81 62.23 0)
 		(mirror y)
@@ -2800,97 +2286,6 @@
 			(project "greenenergyecu"
 				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf"
 					(reference "R879")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "PROTO_AREA_1")
-		(lib_id "hellen-one-common:PROTO_AREA")
-		(at 199.39 60.96 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "502dc5d1-5c28-46d1-a960-c5b8e0de4152")
-		(property "Reference" "G5"
-			(at 200.66 57.15 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PROTO_AREA"
-			(at 221.742 65.278 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "footprints:PROTO_AREA1X1"
-			(at 214.63 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 186.69 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 199.39 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3215dbeb-9add-4e2d-9130-64431f053db7")
-		)
-		(pin "1"
-			(uuid "2c5e567a-0614-4e08-8cf9-386de5fccd94")
-		)
-		(pin "1"
-			(uuid "be258a4c-df8d-48b4-b9c1-b799dd5fdd44")
-		)
-		(pin "1"
-			(uuid "3456d7f9-8a3b-4a0a-b702-55d65ad1c497")
-		)
-		(pin "1"
-			(uuid "35bfcd64-5b02-4c39-8cb6-d89a4a473ef9")
-		)
-		(pin "1"
-			(uuid "358e3856-99a9-4ff7-9832-1717aacad951")
-		)
-		(pin "1"
-			(uuid "05ab5f29-15a6-4b62-9f5f-c7a84aaa376b")
-		)
-		(pin "1"
-			(uuid "41ff0be2-dfaf-46e2-9311-d4068930e87c")
-		)
-		(pin "1"
-			(uuid "94f70cc3-864b-4ba4-b687-4c10c7540341")
-		)
-		(instances
-			(project "greenenergyecu"
-				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf"
-					(reference "G5")
 					(unit 1)
 				)
 			)
@@ -3246,97 +2641,6 @@
 		)
 	)
 	(symbol
-		(lib_name "PROTO_AREA_1")
-		(lib_id "hellen-one-common:PROTO_AREA")
-		(at 198.12 88.9 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6433131c-4616-4225-95aa-14332f5c99c5")
-		(property "Reference" "G6"
-			(at 199.39 85.09 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PROTO_AREA"
-			(at 220.472 93.218 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "footprints:PROTO_AREA1X1"
-			(at 213.36 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 185.42 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 198.12 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "83d72e8d-521f-489f-b173-d5c2d72880ae")
-		)
-		(pin "1"
-			(uuid "9b78b99b-664c-4f44-8c54-359d8b8d9340")
-		)
-		(pin "1"
-			(uuid "59d11ff5-971e-4619-9442-618e259e8afa")
-		)
-		(pin "1"
-			(uuid "575f6cc3-916d-4c8d-8acc-802003893239")
-		)
-		(pin "1"
-			(uuid "07b67348-68c3-4bdc-9a25-65fbfaa978dd")
-		)
-		(pin "1"
-			(uuid "7e729aa0-b169-48d4-a1ae-78c227157f62")
-		)
-		(pin "1"
-			(uuid "b50870d6-ea30-4d2d-bc50-fbb00a4795b7")
-		)
-		(pin "1"
-			(uuid "cfb03ff1-fa1c-4e88-abbd-e36b3c68e4bf")
-		)
-		(pin "1"
-			(uuid "35c1bd47-2259-48fd-bd6c-364726a40753")
-		)
-		(instances
-			(project "greenenergyecu"
-				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf"
-					(reference "G6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 113.03 133.35 0)
 		(unit 1)
@@ -3396,97 +2700,6 @@
 			(project "greenenergyecu"
 				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf"
 					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "PROTO_AREA_1")
-		(lib_id "hellen-one-common:PROTO_AREA")
-		(at 198.12 119.38 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "811643eb-c0ee-4657-b346-cce67744a4d6")
-		(property "Reference" "G7"
-			(at 199.39 115.57 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PROTO_AREA"
-			(at 220.472 123.698 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "footprints:PROTO_AREA1X1"
-			(at 213.36 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 185.42 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 198.12 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f74303ba-8586-492c-bcf7-7e4f7fb983be")
-		)
-		(pin "1"
-			(uuid "67989b20-d0e2-473f-b7b5-38f996e04e35")
-		)
-		(pin "1"
-			(uuid "fe45e070-5482-47bd-ab03-83e6d40c3b8d")
-		)
-		(pin "1"
-			(uuid "1e26b35d-5d8c-4e98-84f7-ebe6ee743274")
-		)
-		(pin "1"
-			(uuid "9c4b1970-2539-4790-8787-5014a3d1753b")
-		)
-		(pin "1"
-			(uuid "0f1a69d9-7685-48bc-aab2-118ce290073b")
-		)
-		(pin "1"
-			(uuid "46b57760-be58-4dcc-9c49-4a83f17f9cbe")
-		)
-		(pin "1"
-			(uuid "bd8234e5-ab7b-4351-8351-6f11c567d59f")
-		)
-		(pin "1"
-			(uuid "252e1edb-0c37-4cac-84af-d4e83565ccce")
-		)
-		(instances
-			(project "greenenergyecu"
-				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf"
-					(reference "G7")
 					(unit 1)
 				)
 			)
@@ -3743,97 +2956,6 @@
 		)
 	)
 	(symbol
-		(lib_name "PROTO_AREA_1")
-		(lib_id "hellen-one-common:PROTO_AREA")
-		(at 67.31 77.47 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8b988a71-467b-4de8-8dd6-4fe028f6e83b")
-		(property "Reference" "G3"
-			(at 68.58 73.66 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PROTO_AREA"
-			(at 89.662 81.788 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "footprints:PROTO_AREA1X1"
-			(at 82.55 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 54.61 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 67.31 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b679f338-790f-4ee0-ae35-a6f83c0b5f9e")
-		)
-		(pin "1"
-			(uuid "50bba2c8-db97-475f-8da4-4d3310c220c5")
-		)
-		(pin "1"
-			(uuid "7a84203f-be1d-4f5d-b708-e99a5e9c18fa")
-		)
-		(pin "1"
-			(uuid "41de05ad-7681-4cb9-87f0-d9e7a748ebaa")
-		)
-		(pin "1"
-			(uuid "8ee852f3-3b6c-4c11-816b-951d89079af0")
-		)
-		(pin "1"
-			(uuid "18102b3f-3e26-469e-8848-1228e8ce2e59")
-		)
-		(pin "1"
-			(uuid "eba3bca5-7d7f-486e-9d5f-28d4a591dc91")
-		)
-		(pin "1"
-			(uuid "dc49bc8c-9ccc-4502-8cf6-89655672b235")
-		)
-		(pin "1"
-			(uuid "f4da16dd-d848-4f03-85ff-51e854323000")
-		)
-		(instances
-			(project "greenenergyecu"
-				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf"
-					(reference "G3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 160.02 78.74 0)
 		(unit 1)
@@ -3979,97 +3101,6 @@
 			(project "greenenergyecu"
 				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf"
 					(reference "F847")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "PROTO_AREA_1")
-		(lib_id "hellen-one-common:PROTO_AREA")
-		(at 199.39 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "98579da7-1d29-48f8-93b4-c6736c7c6be8")
-		(property "Reference" "G16"
-			(at 200.66 147.32 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PROTO_AREA"
-			(at 221.742 155.448 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "footprints:PROTO_AREA1X1"
-			(at 214.63 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 186.69 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 199.39 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "644fe24a-b13f-4c87-b4e7-5f353ae9f7d6")
-		)
-		(pin "1"
-			(uuid "a6526d61-e4f3-41cf-b644-c824c76e7c90")
-		)
-		(pin "1"
-			(uuid "a86b8367-ddf0-4600-a382-60599892a585")
-		)
-		(pin "1"
-			(uuid "7e82ccff-0ad6-4e42-8035-2019282faff3")
-		)
-		(pin "1"
-			(uuid "8ba6c5a0-31e4-44ab-bc21-8214895e3cac")
-		)
-		(pin "1"
-			(uuid "30bf322e-c910-41a3-9d7e-5aca46d52b62")
-		)
-		(pin "1"
-			(uuid "998374bb-4828-4b10-884d-895f48579282")
-		)
-		(pin "1"
-			(uuid "8cccf4d9-7996-440e-89f3-96967461af4a")
-		)
-		(pin "1"
-			(uuid "06ba47e9-f962-4fdb-b402-3c6cb0205b3d")
-		)
-		(instances
-			(project "greenenergyecu"
-				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf"
-					(reference "G16")
 					(unit 1)
 				)
 			)
@@ -5191,97 +4222,6 @@
 		)
 	)
 	(symbol
-		(lib_name "PROTO_AREA_1")
-		(lib_id "hellen-one-common:PROTO_AREA")
-		(at 59.69 115.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e582711f-2978-4bcd-8e9a-07959383a88a")
-		(property "Reference" "G4"
-			(at 60.96 111.76 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PROTO_AREA"
-			(at 82.042 119.888 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "footprints:PROTO_AREA1X1"
-			(at 74.93 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 46.99 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 59.69 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ec5cf843-36e9-4761-8821-d5ea13d90982")
-		)
-		(pin "1"
-			(uuid "040c4263-0a17-4d0e-bf8a-4a8c076661bd")
-		)
-		(pin "1"
-			(uuid "ac05211f-2c7a-45b2-a213-038a917d3c22")
-		)
-		(pin "1"
-			(uuid "678b7fb6-1a0e-4600-8f19-3aa4a6914b20")
-		)
-		(pin "1"
-			(uuid "a3043e3f-378b-4273-81de-312f358c2338")
-		)
-		(pin "1"
-			(uuid "800216e8-92e7-4ea0-bc9f-9601e47c224e")
-		)
-		(pin "1"
-			(uuid "a68f32c5-acd0-41fe-bfc3-dcbb2d90b639")
-		)
-		(pin "1"
-			(uuid "926423f7-a555-44cf-a54e-a18160d86fe5")
-		)
-		(pin "1"
-			(uuid "abc5a9b0-cb2f-4685-81e9-069283d6a08e")
-		)
-		(instances
-			(project "greenenergyecu"
-				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf"
-					(reference "G4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 113.03 77.47 0)
 		(unit 1)
@@ -5697,97 +4637,6 @@
 			(project "greenenergyecu"
 				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf"
 					(reference "R869")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "PROTO_AREA_1")
-		(lib_id "hellen-one-common:PROTO_AREA")
-		(at 60.96 147.32 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f877b8f6-3d5e-4c1b-b8d5-6432eaba142d")
-		(property "Reference" "G1"
-			(at 62.23 143.51 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PROTO_AREA"
-			(at 83.312 151.638 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "footprints:PROTO_AREA1X1"
-			(at 76.2 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 48.26 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 60.96 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "14fc05da-cc3c-4f38-b849-9599103a1e1c")
-		)
-		(pin "1"
-			(uuid "bba3c536-292e-4077-9562-99ca8a140e0f")
-		)
-		(pin "1"
-			(uuid "59ee19df-510a-4d5a-98b0-4113bfc6d74a")
-		)
-		(pin "1"
-			(uuid "f4d8c8d3-5cf7-4328-8fb3-97e329e0b215")
-		)
-		(pin "1"
-			(uuid "36b53a51-fd05-41bc-891d-e86379ac865f")
-		)
-		(pin "1"
-			(uuid "1a548ab2-8afc-48e2-b0f8-9ed2f891fbc5")
-		)
-		(pin "1"
-			(uuid "183716cb-c8fb-4655-b97f-0c047bbbfd58")
-		)
-		(pin "1"
-			(uuid "7c847bde-4b77-4ebd-adf2-8b3bccff069d")
-		)
-		(pin "1"
-			(uuid "971bb9b4-f8cc-4e2e-9816-f9281e0c1444")
-		)
-		(instances
-			(project "greenenergyecu"
-				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf"
-					(reference "G1")
 					(unit 1)
 				)
 			)

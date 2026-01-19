@@ -22961,6 +22961,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5119706"
+			(at 414.02 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ac060097-8693-4d75-a270-b199ea0dabb5")
 		)
@@ -23251,6 +23260,15 @@
 			)
 		)
 		(property "comentario" ""
+			(at 405.13 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C20917"
 			(at 405.13 227.33 0)
 			(effects
 				(font
@@ -26102,6 +26120,15 @@
 		)
 		(property "comentario" ""
 			(at 410.21 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C95232"
+			(at 410.21 209.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
