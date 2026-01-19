@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/hellen-example/hellen-example/greenenergyecu.kicad_sch</source>
-    <date>2026-01-19T15:22:02+0000</date>
+    <date>2026-01-19T17:04:19+0000</date>
     <tool>Eeschema 8.0.9-8.0.9-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1625,7 +1625,7 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC">C903784</field>
+        <field name="LCSC">C5350881</field>
         <field name="MyComment"/>
         <field name="comentario"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
@@ -1633,7 +1633,7 @@
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value="C903784"/>
+      <property name="LCSC" value="C5350881"/>
       <property name="MyComment" value=""/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
@@ -1646,7 +1646,7 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC">C903784</field>
+        <field name="LCSC">C5350881</field>
         <field name="MyComment"/>
         <field name="comentario"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
@@ -1654,7 +1654,7 @@
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value="C903784"/>
+      <property name="LCSC" value="C5350881"/>
       <property name="MyComment" value=""/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
@@ -1667,7 +1667,7 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC">C903784</field>
+        <field name="LCSC">C5350881</field>
         <field name="MyComment"/>
         <field name="comentario"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
@@ -1675,7 +1675,7 @@
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value="C903784"/>
+      <property name="LCSC" value="C5350881"/>
       <property name="MyComment" value=""/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
@@ -1688,7 +1688,7 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC">C903784</field>
+        <field name="LCSC">C5350881</field>
         <field name="MyComment"/>
         <field name="comentario"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
@@ -1696,7 +1696,7 @@
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value="C903784"/>
+      <property name="LCSC" value="C5350881"/>
       <property name="MyComment" value=""/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
@@ -1709,7 +1709,7 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC">C903784</field>
+        <field name="LCSC">C5350881</field>
         <field name="MyComment"/>
         <field name="comentario"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
@@ -1717,7 +1717,7 @@
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value="C903784"/>
+      <property name="LCSC" value="C5350881"/>
       <property name="MyComment" value=""/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
@@ -1730,7 +1730,7 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC">C903784</field>
+        <field name="LCSC">C5350881</field>
         <field name="MyComment"/>
         <field name="comentario"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
@@ -1738,7 +1738,7 @@
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value="C903784"/>
+      <property name="LCSC" value="C5350881"/>
       <property name="MyComment" value=""/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
@@ -1751,7 +1751,7 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC">C903784</field>
+        <field name="LCSC">C5350881</field>
         <field name="MyComment"/>
         <field name="comentario"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
@@ -1759,7 +1759,7 @@
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value="C903784"/>
+      <property name="LCSC" value="C5350881"/>
       <property name="MyComment" value=""/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
@@ -1772,7 +1772,7 @@
       <value>ISL9V3040D3ST</value>
       <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
       <fields>
-        <field name="LCSC">C903784</field>
+        <field name="LCSC">C5350881</field>
         <field name="MyComment"/>
         <field name="comentario"/>
         <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
@@ -1780,7 +1780,7 @@
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
-      <property name="LCSC" value="C903784"/>
+      <property name="LCSC" value="C5350881"/>
       <property name="MyComment" value=""/>
       <property name="comentario" value=""/>
       <property name="Sheetname" value="Injector"/>
