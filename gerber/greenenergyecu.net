@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/hellen-example/hellen-example/greenenergyecu.kicad_sch</source>
-    <date>2026-01-20T02:05:26+0000</date>
+    <date>2026-01-20T02:55:26+0000</date>
     <tool>Eeschema 8.0.9-8.0.9-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1197,12 +1197,12 @@
     </comp>
     <comp ref="Q845">
       <value>ISL9V3040D3ST</value>
-      <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <footprint>hellen-one-common:TO-252-2MODD</footprint>
       <fields>
         <field name="LCSC">C462128</field>
         <field name="MyComment"/>
         <field name="comentario"/>
-        <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
+        <field name="Footprint">hellen-one-common:TO-252-2MODD</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
