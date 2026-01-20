@@ -3319,7 +3319,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "hellen-one-common:TO-252-2MODD"
+		(property "Footprint" "hellen-one-common:MODIGBT"
 			(at 157.48 92.71 0)
 			(effects
 				(font
