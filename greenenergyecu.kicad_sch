@@ -29895,36 +29895,6 @@
 				(hide yes)
 			)
 		)
-		(pin "IN1" input
-			(at 97.79 298.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "76a3d99d-0280-4f3b-9fe9-cbcea2e8c7db")
-		)
-		(pin "OUT3" output
-			(at 85.09 303.53 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "b23734fb-876f-469f-ba81-56d3c4ff9b53")
-		)
-		(pin "OUT1" output
-			(at 85.09 298.45 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "df8c225d-4171-4210-98f5-7adf54646744")
-		)
 		(pin "OUT2" output
 			(at 85.09 300.99 180)
 			(effects
@@ -29944,16 +29914,6 @@
 				(justify right)
 			)
 			(uuid "39567e0d-b805-4349-9846-341f5bd46402")
-		)
-		(pin "IN3" input
-			(at 97.79 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "98a8c4f5-668b-4989-97ea-0b840bacc8b1")
 		)
 		(instances
 			(project "greenenergyecu"
