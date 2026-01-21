@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/hellen-example/hellen-example/greenenergyecu.kicad_sch</source>
-    <date>2026-01-21T15:25:45+0000</date>
+    <date>2026-01-21T16:05:57+0000</date>
     <tool>Eeschema 8.0.9-8.0.9-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -3665,13 +3665,13 @@
     </net>
     <net code="139" name="OUT_DC1+">
       <node ref="M8" pin="S3" pinfunction="OUT+" pintype="passive"/>
-      <node ref="P1" pin="90" pinfunction="90" pintype="passive"/>
-      <node ref="P1" pin="91" pinfunction="91" pintype="passive"/>
+      <node ref="P1" pin="82" pinfunction="82" pintype="passive"/>
+      <node ref="P1" pin="83" pinfunction="83" pintype="passive"/>
     </net>
     <net code="140" name="OUT_DC1-">
       <node ref="M8" pin="S2" pinfunction="OUT-" pintype="passive"/>
-      <node ref="P1" pin="82" pinfunction="82" pintype="passive"/>
-      <node ref="P1" pin="83" pinfunction="83" pintype="passive"/>
+      <node ref="P1" pin="90" pinfunction="90" pintype="passive"/>
+      <node ref="P1" pin="91" pinfunction="91" pintype="passive"/>
     </net>
     <net code="143" name="OUT_IGN1">
       <node ref="P1" pin="114" pinfunction="114" pintype="passive"/>
