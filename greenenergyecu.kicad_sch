@@ -19504,6 +19504,28 @@
 			)
 		)
 	)
+	(global_label "+12V_RAW"
+		(shape input)
+		(at 76.2 179.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "79d19eb5-2820-49b4-9ab0-6dda6a4d634a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 89.0428 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GNDA"
 		(shape input)
 		(at 46.99 186.69 0)

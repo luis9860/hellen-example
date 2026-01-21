@@ -3092,7 +3092,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
+		(property "Footprint" "hellen-one-common:abel-252-2"
 			(at 76.2 39.37 0)
 			(effects
 				(font
