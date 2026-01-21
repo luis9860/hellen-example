@@ -1880,7 +1880,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
+		(property "Footprint" "hellen-one-common:MODIGBT"
 			(at 158.75 152.4 0)
 			(effects
 				(font
@@ -3220,7 +3220,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
+		(property "Footprint" "hellen-one-common:MODIGBT"
 			(at 110.49 92.71 0)
 			(effects
 				(font
@@ -4485,7 +4485,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
+		(property "Footprint" "hellen-one-common:MODIGBT"
 			(at 110.49 120.65 0)
 			(effects
 				(font
