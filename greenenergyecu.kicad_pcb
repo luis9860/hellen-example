@@ -11564,7 +11564,6 @@
 		(path "/0827eec6-1147-48ff-80f1-0f941b45a79f")
 		(sheetname "Raíz")
 		(sheetfile "greenenergyecu.kicad_sch")
-		(attr exclude_from_pos_files)
 		(fp_line
 			(start 1.524 -0.8)
 			(end 0.508 -0.8)
