@@ -13,4 +13,5 @@
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints")(options "")(descr ""))
   (lib (name "0.2")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/ign8/0.2")(options "")(descr ""))
   (lib (name "MoodLibrary")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/kicad/footprints/MoodLibrary.pretty")(options "")(descr ""))
+  (lib (name "GDI-6ch")(type "KiCad")(uri "C:/Users/USUARIO.DESKTOP-5UKTARA/Desktop/Nueva carpeta (2)/rusefi-hardware-main/GDI-6ch")(options "")(descr ""))
 )
