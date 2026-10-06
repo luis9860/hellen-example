@@ -1,4 +1,4 @@
-# FAQ.
+# FAQ
 
 Q: How do I get latest hellen-one?
 
